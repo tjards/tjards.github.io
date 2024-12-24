@@ -6,8 +6,24 @@
     <description>Recent content in Posts on research notes</description>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2024 20:08:52 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 14:47:03 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Survey of Potential Functions for Multi-agent Systems</title>
+      <link>http://localhost:1313/posts/2024/survey_pfun/</link>
+      <pubDate>Sun, 24 Nov 2024 14:47:03 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/survey_pfun/</guid>
+      <description>&lt;p&gt;I recently conducted a minor survey on potential functions in the content of multi-agent systems. Collective potential functions are a common way to produce desired separation between agents in a swarm.&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/2024/animation2D_pinning4.gif&#34; title = &#34;titoe&#34; alt=&#34;&#34; width=&#34;600&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/img/2024/potential_functions.png&#34; alt=&#34;&#34; width=&#34;600&#34; /&gt;
+&lt;p&gt;$$
+V = \frac{a}{(|\mathbf{x}_i - \mathbf{x}_j|)^{12}} - \frac{b}{(|\mathbf{x}_i - \mathbf{x}_j|) ^6}
+$$&lt;/p&gt;
+&lt;p&gt;$$
+\nabla V = \left( \frac{-12a}{(|\mathbf{x}_i - \mathbf{x}_j| ^{13})} + \frac{6b}{(|\mathbf{x}_i - \mathbf{x}_j|) ^7} \right) \hat{\mathbf{u}}
+$$&lt;/p&gt;
+&lt;p&gt;is the distance between two agents $(i)$ and $(j)$.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>New publication: Emergent Structure in Multi-agent Systems Using Geometric Embeddings</title>
       <link>http://localhost:1313/posts/2024/geometric_embeddings/</link>
