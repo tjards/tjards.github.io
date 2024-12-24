@@ -1,7 +1,7 @@
 ---
 date: '2022-10-28T20:08:52-05:00'
 draft: false
-title: 'New publication: Flocks, Mobs, and Figure Eights: Swarming as a Lemniscatic Arch'
+title: 'New publication: Flocks, Mobs, and Figure Eights - Swarming as a Lemniscatic Arch'
 tags: ["pubs"]
 categories: ["pubs"]
 ---
