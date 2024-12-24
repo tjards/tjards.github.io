@@ -9,20 +9,16 @@
     <lastBuildDate>Sun, 24 Nov 2024 14:47:03 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Survey of Potential Functions for Multi-agent Systems</title>
+      <title>A Survey of Potential Functions for Multi-agent Systems</title>
       <link>http://localhost:1313/posts/2024/survey_pfun/</link>
       <pubDate>Sun, 24 Nov 2024 14:47:03 -0500</pubDate>
       <guid>http://localhost:1313/posts/2024/survey_pfun/</guid>
-      <description>&lt;p&gt;I recently conducted a minor survey on potential functions in the content of multi-agent systems. Collective potential functions are a common way to produce desired separation between agents in a swarm.&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/img/2024/animation2D_pinning4.gif&#34; title = &#34;titoe&#34; alt=&#34;&#34; width=&#34;600&#34; /&gt;
-&lt;img src=&#34;http://localhost:1313/img/2024/potential_functions.png&#34; alt=&#34;&#34; width=&#34;600&#34; /&gt;
-&lt;p&gt;$$
-V = \frac{a}{(|\mathbf{x}_i - \mathbf{x}_j|)^{12}} - \frac{b}{(|\mathbf{x}_i - \mathbf{x}_j|) ^6}
-$$&lt;/p&gt;
-&lt;p&gt;$$
-\nabla V = \left( \frac{-12a}{(|\mathbf{x}_i - \mathbf{x}_j| ^{13})} + \frac{6b}{(|\mathbf{x}_i - \mathbf{x}_j|) ^7} \right) \hat{\mathbf{u}}
-$$&lt;/p&gt;
-&lt;p&gt;is the distance between two agents $(i)$ and $(j)$.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I recently conducted a &lt;a href=&#34;https://github.com/tjards/survey_potential_functions&#34;&gt;minor survey&lt;/a&gt; on potential functions in the context of multi-agent systems. Collective potential functions are a common way to produce desired separation between agents in a swarm. Fig. 1 provides an illustration of one such scenario.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;http://localhost:1313/img/2024/animation2D_pinning4.gif&#34; alt=&#34;&#34;&gt;
+  &lt;figcaption&gt;Fig. 1: Illustration of potential functions in action.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Note that the agents maintain some common distance between eachother, except when navigating around the obstacles in yellow. A common potential function used in molecular dynamics and lattice formation with equilibrium distances is the &lt;a href=&#34;https://www.jstor.org/stable/94265&#34;&gt;Lennard-Jones&lt;/a&gt; potential function:&lt;/p&gt;</description>
     </item>
     <item>
       <title>New publication: Emergent Structure in Multi-agent Systems Using Geometric Embeddings</title>

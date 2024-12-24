@@ -7,7 +7,7 @@ title: 'A Survey of Potential Functions for Multi-agent Systems'
 I recently conducted a [minor survey](https://github.com/tjards/survey_potential_functions) on potential functions in the context of multi-agent systems. Collective potential functions are a common way to produce desired separation between agents in a swarm. Fig. 1 provides an illustration of one such scenario.
 
 <figure>
-  <img src="/img/2024/animation2D_pinning4.gif" alt="">
+  <img src="/img/2024/animation2D_pinning4.gif" alt="" style="width: 400px; height: auto">
   <figcaption>Fig. 1: Illustration of potential functions in action.</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ $$
 where **u** with the litte hat is a unit vector representing the direction from **x<sub>j</sub>** to **x<sub>i</sub>**. Different potential functions produce different transient and steady-state performance characteristics. Fig. 2 compares some of the more common variants.
 
 <figure>
-  <img src="/img/2024/potential_functions.png"  alt="">
+  <img src="/img/2024/potential_functions.png"  alt="" style="width: 600px; height: auto">
   <figcaption>Fig. 2: Comparison of common potential functions.</figcaption>
 </figure>
 
