@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on tjards</title>
-    <link>//localhost:1313/categories/</link>
-    <description>Recent content in Categories on tjards</description>
+    <title>categories on research notes</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in categories on research notes</description>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Oct 2024 20:08:52 -0500</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pubs</title>
-      <link>//localhost:1313/categories/pubs/</link>
+      <title>Swarming</title>
+      <link>http://localhost:1313/categories/swarming/</link>
       <pubDate>Mon, 21 Oct 2024 20:08:52 -0500</pubDate>
-      <guid>//localhost:1313/categories/pubs/</guid>
+      <guid>http://localhost:1313/categories/swarming/</guid>
       <description></description>
     </item>
   </channel>

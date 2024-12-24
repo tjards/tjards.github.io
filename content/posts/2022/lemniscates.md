@@ -3,7 +3,7 @@ date: '2022-10-28T20:08:52-05:00'
 draft: false
 title: 'New publication: Flocks, Mobs, and Figure Eights - Swarming as a Lemniscatic Arch'
 tags: ["pubs"]
-categories: ["pubs"]
+categories: ["swarming"]
 ---
 
 I have finally checked off the career milestone of publishing in an IEEE Transactions journal. I was inspired to develop this solution after watching a flock of birds attack a squirrel on my neighbour's roof. I noticed the birds produced a modified figure-eight pattern, which allowed them to dive down and attack the squirrel one-after-the-other in a coordinated manner. 

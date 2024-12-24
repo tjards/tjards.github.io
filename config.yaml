@@ -1,8 +1,7 @@
-baseURL: ""
+baseURL: "https://tjards.github.io/"
 languageCode: en-us
-title: tjards
+title: research notes
 theme: PaperMod
-
 
 markup:
   goldmark:
@@ -14,13 +13,13 @@ markup:
 menu:
   main: 
     #- identifier: categories
-    #  name: Categories
+    #  name: categories
     #  url: /categories/
-    #  weight: 10
+    #  weight: 15
     - identifier: about
       name: about me
       url: /about/
-      weight: 10
+      weight: 5
     - identifier: tags
       name: tags
       url: /tags/
@@ -28,11 +27,11 @@ menu:
     - identifier: archives 
       name: posts
       url: /archives/
-      weight: 30
+      weight: 10
     - identifier: publications
       name: publications
       url: https://scholar.google.com/citations?user=RGlv4ZUAAAAJ&hl=en
-      weight: 40
+      weight: 30
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -46,8 +45,8 @@ minify:
 params:
 
   homeInfoParams:
-    Title: tjards
-    Content: research notes
+    Title: research notes
+    Content: thoughts on robotics, control, and artificial intelligence
 
   socialIcons:
     - name: github

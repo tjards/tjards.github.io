@@ -3,7 +3,7 @@ date: '2024-10-21T20:08:52-05:00'
 draft: false
 title: 'New publication: Emergent Structure in Multi-agent Systems Using Geometric Embeddings'
 tags: ["pubs"]
-categories: ["pubs"]
+categories: ["swarming"]
 ---
 
 One of our grad students (Dimitria) recent presented new work at the [2024 IEEE International Symposium on Systems Engineering (ISSE)](https://2024.ieeeisse.org/) in Perugia, Italy. This new work builds off some of our earlier investigations into [emergent leminscate traectories](https://ieeexplore.ieee.org/abstract/document/9931405) by providing a more general solution, applicable to a wide range of closed-curve trajectories. 
