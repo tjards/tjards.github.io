@@ -1,7 +1,7 @@
 ---
 date: '2024-11-24T14:47:03-05:00'
 draft: false
-title: 'Survey of Potential Functions for Multi-agent Systems'
+title: 'A Survey of Potential Functions for Multi-agent Systems'
 ---
 
 I recently conducted a [minor survey](https://github.com/tjards/survey_potential_functions) on potential functions in the context of multi-agent systems. Collective potential functions are a common way to produce desired separation between agents in a swarm. Fig. 1 provides an illustration of one such scenario.
