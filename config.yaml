@@ -9,6 +9,8 @@ markup:
         hardWraps: false
         unsafe: true
         xhtml: false
+  defaultMarkdownHandlers:
+    mathjax: true
 
 menu:
   main: 
