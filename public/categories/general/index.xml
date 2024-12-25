@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on research notes</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on research notes</description>
+    <title>General on research notes</title>
+    <link>http://localhost:1313/categories/general/</link>
+    <description>Recent content in General on research notes</description>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Nov 2024 14:47:03 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/general/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Survey of Potential Functions for Multi-agent Systems</title>
       <link>http://localhost:1313/posts/2024/survey_pfun/</link>
