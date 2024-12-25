@@ -3,6 +3,9 @@ languageCode: en-us
 title: research notes
 theme: PaperMod
 
+pagination:
+  pagerSize: 3
+
 markup:
   goldmark:
       renderer:

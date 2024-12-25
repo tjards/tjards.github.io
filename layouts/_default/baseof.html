@@ -8,6 +8,7 @@
 <head>
     {{- partial "head.html" . }}
     <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <link rel="stylesheet" href="/css/style.css">
 </head>
 
 <body class="
@@ -19,10 +20,24 @@
 {{- end -}}
 " id="top">
     {{- partialCached "header.html" . .Page -}}
-    <main class="main">
-        {{- block "main" . }}{{ end }}
-    </main>
-    {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+
+    <div class="content-wrapper">
+        <main class="main">
+            {{- block "main" . }}{{ end }}
+        </main>
+
+        <!-- {{ partial "footer.html" . }} -->
+
+        <!-- <aside class="sidebar">
+            {{ partial "featured-posts.html" . }}
+        </aside> -->
+    </div>
+
+    {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}} 
 </body>
+
+
+
+  
 
 </html>
