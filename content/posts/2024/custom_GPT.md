@@ -55,7 +55,7 @@ Here are the steps I followed to setup my custom GPT.
   <figcaption>Define some conversation starters.</figcaption>
 </figure>
 
-6. Here is where the GPT trains on your unique problems. You may upload documents as shown below. Here, I provided some of my draft papers at various stages of peer-review and the reviewer comments. I also provided some of my other releated papers. 
+6. Here is where the GPT trains on your unique problems. You may upload documents as shown below. Here, I provided some of my draft papers at various stages of peer-review and the reviewer comments. I also provided some of my other related papers. 
 
 <figure>
   <img src="/img/2024/custom_GPT/step5.png" alt="" style="width: 400px; height: auto">
@@ -104,7 +104,7 @@ It also provided some areas for improvement, should I choose to further refine t
 
 ## Overall Impression
 
-The process for creating and training a custom GPT was simple and offered decent flexibilty. I did not leverage the full scope of capabilities, however. While uploading documents through the GUI was convenient, I feel I could get a lot more from the custom Actions and APIs (with and associated investment in time). 
+The process for creating and training a custom GPT was simple and offered decent flexibilty. I did not leverage the full scope of capabilities, however. While uploading documents through the GUI was convenient, I feel I could get a lot more from the custom Actions and APIs (with an associated investment in time). 
 
 I used a very narrow use-case and asked fairly superficial questions. That said, I was impressed with how well it understood the (fairly dense) material and offered reasonable advice on what areas to focus on in developing the paper. 
 
