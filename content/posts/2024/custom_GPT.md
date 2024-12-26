@@ -25,7 +25,7 @@ I trained it on a very narrow band of my swarming research and tested it on actu
 
 Here are the steps I followed to setup my custom GPT.
 
-1. Go to https://chatgpt.com/, setup and account, and pay for the Plus subscription.
+1. Go to https://chatgpt.com/, setup an account, and pay for the Plus subscription.
 
 2. At the top-left corner, select "Explore GPTs".
 
