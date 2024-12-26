@@ -6,8 +6,23 @@
     <description>Recent content on research notes</description>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Nov 2024 14:47:03 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 18:43:18 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Co-doc: A Custom GPT Research Assistant</title>
+      <link>http://localhost:1313/posts/2024/custom_gpt/</link>
+      <pubDate>Wed, 25 Dec 2024 18:43:18 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/custom_gpt/</guid>
+      <description>&lt;h2 id=&#34;key-points&#34;&gt;Key Points&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Built a custom ChatGPT to assist me with my research.&lt;/li&gt;
+&lt;li&gt;Trained it on actual comments from peer-review.&lt;/li&gt;
+&lt;li&gt;Received feedback on my proposed revisions.&lt;/li&gt;
+&lt;li&gt;Overall impressed with its initial performance.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;One of my holiday projects this year was to play with some of the special features that come with the &lt;a href=&#34;https://chatgpt.com/&#34;&gt;OpenAI ChatGPT&lt;/a&gt; &lt;em&gt;Plus&lt;/em&gt; account. In additon to gaining access to better models and more reliable performance, the &lt;em&gt;Plus&lt;/em&gt; account allows you to create your own custom GPTs, tailored to your own needs.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A Survey of Potential Functions for Multi-agent Systems</title>
       <link>http://localhost:1313/posts/2024/survey_pfun/</link>
