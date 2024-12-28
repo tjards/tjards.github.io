@@ -20,24 +20,10 @@
 {{- end -}}
 " id="top">
     {{- partialCached "header.html" . .Page -}}
-
-    <div class="content-wrapper">
         <main class="main">
             {{- block "main" . }}{{ end }}
         </main>
-
-        <!-- {{ partial "footer.html" . }} -->
-
-        <!-- <aside class="sidebar">
-            {{ partial "featured-posts.html" . }}
-        </aside> -->
-    </div>
-
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}} 
 </body>
-
-
-
-  
 
 </html>

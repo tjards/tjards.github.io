@@ -1,12 +1,12 @@
 
-
 .featured-posts-title {
     font-size: 1.5rem;
     font-weight: bold;
     margin: 20px 0;
-    text-align: left; /* Aligns the title to the left */
-    color: #777777; /* Dark grey */
+    text-align: left; 
+    color: #777777; 
 }
+
 
 
 .site-footer {

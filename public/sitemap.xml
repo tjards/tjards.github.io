@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/2024/custom_gpt/</loc>
+    <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2024-12-25T18:43:18-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-12-25T18:43:18-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/2024/custom_gpt/</loc>
+    <lastmod>2024-12-25T18:43:18-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/featured/</loc>
     <lastmod>2024-12-25T18:43:18-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/categories/general/</loc>
     <lastmod>2024-12-25T18:43:18-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/project/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-12-25T18:43:18-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -24,9 +27,6 @@
     <lastmod>2024-12-25T18:43:18-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2024/survey_pfun/</loc>
-    <lastmod>2024-11-24T14:47:03-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/general/</loc>
     <lastmod>2024-11-24T14:47:03-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/survey/</loc>
