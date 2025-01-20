@@ -5,7 +5,7 @@ summary: about
 ---
 
 <figure>
-  <img src="/img/me.jpeg" alt="" style="width: 250px; height: auto">
+  <img src="/img/me2.JPEG" alt="" style="width: 250px; height: auto">
 </figure>
 
 
