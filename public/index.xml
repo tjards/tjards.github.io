@@ -9,13 +9,13 @@
     <lastBuildDate>Sun, 02 Feb 2025 16:15:45 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Robots Chaos Dune</title>
+      <title>Robots, Chaos, and the Wisdom of Science Fiction: Reflections on Unpredictability</title>
       <link>http://localhost:1313/posts/2025/robots-chaos-dune/</link>
       <pubDate>Sun, 02 Feb 2025 16:15:45 -0500</pubDate>
       <guid>http://localhost:1313/posts/2025/robots-chaos-dune/</guid>
-      <description>&lt;h1 id=&#34;robots-chaos-and-the-wisdom-of-dune-reflections-on-unpredictability&#34;&gt;Robots, Chaos, and the Wisdom of Dune: Reflections on Unpredictability&lt;/h1&gt;
-&lt;p&gt;My research began in the narrow field of reinforcement learning applied to the constrained, optimal control. Solutions were well-structured, precise, and mathematically rigorous. This fit neatly into a deterministic view of the world - if I defined everything correctly and did the math, things would work out well. There was a comfort in this.&lt;/p&gt;
-&lt;p&gt;But then I started dealing with more than one robot. At first, I felt I could squeeze out a few solid papers by just naively extending my ideas into teams of robots. Little did I expect, when each robot started learning in isolation using the methods I had established earlier, they were torn apart by competition. Of course, more formally, this is where I learned that multi-agent reinforcement learning is not as simple as applying single-agent reinforcement learning to multiple agents. What I missed was an appreciation for the role of interactions between the robots and the need to negotiate on shared goals. This naturally led into research centered on cooperative reinforcement learning, network control, and complex systems.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;My thoughts on how a meteorology paper published in 1963 explains the difference between two giants of science fiction, with some personal reflections on how they each influence my own work.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;My research &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1002/acs.2882&#34;&gt;began&lt;/a&gt; in the narrow field of reinforcement learning applied to constrained, optimal control. Solutions were well-structured, precise, and mathematically rigorous. This fit neatly into a deterministic view of the world - if I defined everything correctly and did the math, things would work out well. There was a comfort in this.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Co-doc: A Custom GPT Research Assistant</title>
@@ -31,13 +31,6 @@
 &lt;/ol&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;One of my holiday projects this year was to play with some of the special features that come with the &lt;a href=&#34;https://chatgpt.com/&#34;&gt;OpenAI ChatGPT&lt;/a&gt; &lt;em&gt;Plus&lt;/em&gt; account. In additon to gaining access to better models and more reliable performance, the &lt;em&gt;Plus&lt;/em&gt; account allows you to create your own custom GPTs, tailored to your own needs.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>tags</title>
-      <link>http://localhost:1313/tags/</link>
-      <pubDate>Tue, 24 Dec 2024 14:23:24 -0500</pubDate>
-      <guid>http://localhost:1313/tags/</guid>
-      <description></description>
     </item>
     <item>
       <title>A Survey of Potential Functions for Multi-agent Systems</title>

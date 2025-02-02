@@ -7,6 +7,8 @@ categories: ['personal']
 ShowToc: false
 ---
 
+*My thoughts on how a meteorology paper published in 1963 explains the difference between two giants of science fiction, with some personal reflections on how they each influence my own work.*
+
 ## Introduction
 
 My research [began](https://onlinelibrary.wiley.com/doi/abs/10.1002/acs.2882) in the narrow field of reinforcement learning applied to constrained, optimal control. Solutions were well-structured, precise, and mathematically rigorous. This fit neatly into a deterministic view of the world - if I defined everything correctly and did the math, things would work out well. There was a comfort in this. 
