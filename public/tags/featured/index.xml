@@ -4,18 +4,16 @@
     <title>Featured on research notes</title>
     <link>http://localhost:1313/tags/featured/</link>
     <description>Recent content in Featured on research notes</description>
-    <generator>Hugo -- 0.140.1</generator>
+    <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Feb 2025 16:15:45 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 21:14:56 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/featured/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Robots, Chaos, and the Wisdom of Science Fiction: Reflections on Unpredictability</title>
-      <link>http://localhost:1313/posts/2025/robots-chaos-dune/</link>
-      <pubDate>Sun, 02 Feb 2025 16:15:45 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2025/robots-chaos-dune/</guid>
-      <description>&lt;p&gt;My thoughts on how a meteorology paper published in 1963 explains the difference between two giants of science fiction, with some personal reflections on how they influence my own work&lt;/p&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;My research &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1002/acs.2882&#34;&gt;began&lt;/a&gt; in the narrow field of reinforcement learning applied to constrained, optimal control. Solutions were well-structured, precise, and mathematically rigorous. This fit neatly into a deterministic view of the world - if I defined everything correctly and did the math, things would work out well. There was a comfort in this.&lt;/p&gt;</description>
+      <title>New publication in Automatica! Emergent homeomorphic curves in swarms</title>
+      <link>http://localhost:1313/posts/2025/emergent_homeomorphic/</link>
+      <pubDate>Tue, 15 Apr 2025 21:14:56 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025/emergent_homeomorphic/</guid>
+      <description>&lt;p&gt;This work introduces the concept of geometric embeddings, which permit the application of linear control policies to produce globally-stable emergent curves in swarms of unmanned aerial vehicles. The vehicles make decisions based only on local observations, without knowing their role in the larger group. Below is an animation of the technique being used to produce a lemniscatic arc. Open source code provide &lt;a href=&#34;https://doi.org/10.1016/j.automatica.2025.112221&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Co-doc: A Custom GPT Research Assistant</title>

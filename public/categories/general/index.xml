@@ -4,10 +4,17 @@
     <title>General on research notes</title>
     <link>http://localhost:1313/categories/general/</link>
     <description>Recent content in General on research notes</description>
-    <generator>Hugo -- 0.140.1</generator>
+    <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Dec 2024 18:43:18 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 21:14:56 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New publication in Automatica! Emergent homeomorphic curves in swarms</title>
+      <link>http://localhost:1313/posts/2025/emergent_homeomorphic/</link>
+      <pubDate>Tue, 15 Apr 2025 21:14:56 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025/emergent_homeomorphic/</guid>
+      <description>&lt;p&gt;This work introduces the concept of geometric embeddings, which permit the application of linear control policies to produce globally-stable emergent curves in swarms of unmanned aerial vehicles. The vehicles make decisions based only on local observations, without knowing their role in the larger group. Below is an animation of the technique being used to produce a lemniscatic arc. Open source code provide &lt;a href=&#34;https://doi.org/10.1016/j.automatica.2025.112221&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Co-doc: A Custom GPT Research Assistant</title>
       <link>http://localhost:1313/posts/2024/custom_gpt/</link>

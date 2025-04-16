@@ -4,12 +4,25 @@
     <title>research notes</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on research notes</description>
-    <generator>Hugo -- 0.140.1</generator>
+    <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Feb 2025 16:15:45 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 21:14:56 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Robots, Chaos, and the Wisdom of Science Fiction: Reflections on Unpredictability</title>
+      <title>New publication in Automatica!</title>
+      <link>http://localhost:1313/posts/2025/emergent_homeomorphic/</link>
+      <pubDate>Tue, 15 Apr 2025 21:14:56 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025/emergent_homeomorphic/</guid>
+      <description>&lt;h2 id=&#34;emergent-homeomorphic-curves-in-swarms&#34;&gt;Emergent homeomorphic curves in swarms&lt;/h2&gt;
+&lt;p&gt;This work introduces the concept of geometric embeddings, which permit the application of linear control policies to produce globally-stable emergent curves in swarms of unmanned aerial vehicles. The vehicles make decisions based only on local observations, without knowing their role in the larger group. Below is an animation of the technique being used to produce a lemniscatic arc.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;http://localhost:1313/img/2025/animation3D_cool.gif&#34; alt=&#34;&#34; style=&#34;width: 400px; height: auto&#34;&gt;
+&lt;/figure&gt;
+&lt;p&gt;Article available &lt;a href=&#34;https://doi.org/10.1016/j.automatica.2025.112221&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Code available &lt;a href=&#34;https://github.com/tjards/multi-agent_sim&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Robots, Chaos, and Dune: Reflections on Unpredictability</title>
       <link>http://localhost:1313/posts/2025/robots-chaos-dune/</link>
       <pubDate>Sun, 02 Feb 2025 16:15:45 -0500</pubDate>
       <guid>http://localhost:1313/posts/2025/robots-chaos-dune/</guid>
