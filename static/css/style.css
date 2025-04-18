@@ -1,99 +1,106 @@
+/* ------------------------------
+   Menu Links (Sidebar or Floating)
+---------------------------------*/
+.menu-title {
+  font-weight: bold;
+  margin-bottom: 0.75rem;
+  color: #444;
+}
 
-.featured-posts-title {
-    font-size: 1.5rem;
-    font-weight: bold;
-    margin: 20px 0;
-    text-align: left; 
-    color: #777777; 
+.menu-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menu-links li {
+  margin-bottom: 0.5rem;
+}
+
+.menu-links a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+.menu-links a:hover {
+  text-decoration: underline;
 }
 
 
-
+/* ------------------------------
+   Footer Styles
+---------------------------------*/
 .site-footer {
-    background-color: #f8f9fa;
-    padding: 20px;
-    text-align: center;
-    font-size: 0.9rem;
-    color: #666666;
-    border-top: 1px solid #e7e7e7;
+  background-color: #f8f9fa;
+  padding: 20px;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666666;
+  border-top: 1px solid #e7e7e7;
 }
 
+/* Normal footer links */
 .site-footer a {
-    color: #007acc;
-    text-decoration: none;
+  color: #007acc;
+  text-decoration: none;
 }
 
 .site-footer a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
+/* Social icons in footer */
 .footer-social {
-    list-style: none;
-    padding: 0;
-    margin: 10px 0 0;
-    display: flex;
-    justify-content: center;
-    gap: 10px;
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 0;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
 }
 
 .footer-social li {
-    display: inline;
+  display: inline;
 }
 
+/* ------------------------------
+   Footer Pill Navigation
+---------------------------------*/
+.site-footer .footer-links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
 
+.site-footer .footer-links a {
+  background-color: #eaeaea;
+  padding: 0.4rem 0.9rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  color: #333;
+  text-decoration: none;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
 
-/* .featured-posts {
-    border: 1px solid #ddd;
-    paddingrgb(21, 20, 20)
-    margin-bottom: 1rem;
-    background-color: #f9f9f9;
+.site-footer .footer-links a:hover {
+  background-color: #007acc;
+  color: #fff;
+}
+
+/* ------------------------------
+   Responsive Adjustments
+---------------------------------*/
+@media (max-width: 600px) {
+  .site-footer .footer-links {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
   }
-  
-  .featured-posts h2 {
-    font-size: 1.2rem;
-    margin-bottom: 0.5rem;
+
+  .footer-social {
+    flex-wrap: wrap;
+    gap: 0.5rem;
   }
-  
-  .featured-posts ul {
-    list-style: none;
-    padding: 0;
-  }
-  
-  .featured-posts li {
-    margin-bottom: 0.5rem;
-  }
-  
-  .featured-posts a {
-    text-decoration: none;
-    color: #007acc;
-  }
-  
-  .featured-posts a:hover {
-    text-decoration: underline;
-  } */
-  
-
-
-
-  /* Wrapper for main content and sidebar */
-
-/* .content-wrapper {
-    display: flex;
-    align-items: flex-start;
-    gap: 20px;  
-    margin: 20px auto;
-} */
-
-/* Main content area */
-/* .main {
-    flex: 3; 
-} */
-
-/* Sidebar */
-/* .sidebar {
-    flex: 1; 
-    padding: 10px;
-    background-color: #f9f9f9;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-} */
+}

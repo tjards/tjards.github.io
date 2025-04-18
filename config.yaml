@@ -25,10 +25,6 @@ menu:
       name: about me
       url: /about/
       weight: 5
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
     - identifier: archives 
       name: posts
       url: /archives/
@@ -52,6 +48,15 @@ params:
   homeInfoParams:
     Title: research notes
     Content: thoughts on robotics, control, and artificial intelligence
+
+  assets:
+    css:
+      - css/style.css
+    
+    favicon: "img/favicon-quarrg.ico"
+    favicon16x16: "img/favicon-quarrg.png"
+    favicon32x32: "img/favicon-quarrg.png"
+
 
   socialIcons:
     - name: github

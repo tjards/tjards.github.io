@@ -1,9 +1,9 @@
 ---
-date: '2025-04-15T21:14:56-04:00'
+date: '2025-02-28T21:14:56-04:00'
 draft: false
 title: 'New publication in Automatica!'
 tags: ["pubs", 'featured']
-categories: ["general"]
+categories: ["research"]
 ---
 
 ## Emergent homeomorphic curves in swarms
