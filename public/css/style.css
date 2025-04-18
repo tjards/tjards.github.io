@@ -1,3 +1,13 @@
+.featured-posts-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 20px 0;
+  text-align: left;
+  color: #777777; /* ← change this */
+}
+
+
+
 /* ------------------------------
    Menu Links (Sidebar or Floating)
 ---------------------------------*/
