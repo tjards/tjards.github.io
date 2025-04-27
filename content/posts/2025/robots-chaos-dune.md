@@ -11,7 +11,7 @@ ShowToc: false
 
 ## Introduction
 
-My research [began](https://onlinelibrary.wiley.com/doi/abs/10.1002/acs.2882) in the narrow field of reinforcement learning applied to constrained, optimal control. Solutions were well-structured, precise, and mathematically rigorous. This fit neatly into a deterministic view of the world - if I defined everything correctly and did the math, things would work out well. There was a comfort in this. 
+My research [began](https://onlinelibrary.wiley.com/doi/abs/10.1002/acs.2882) in the narrow field of reinforcement learning applied to constrained, optimal control. Solutions were well-structured, precise, and mathematically rigorous. This fit neatly into a deterministic view of the world - if I defined everything correctly and did the math, things would work out well. 
 
 But then I started dealing with more than one robot. At first, I felt I could squeeze out a few solid papers by just naively extending my ideas into teams of robots. Little did I expect, when each robot started learning in isolation using the methods I had established earlier, they were torn apart by competition. Of course, more formally, this is where I learned that multi-agent reinforcement learning is not as simple as applying single-agent reinforcement learning to multiple agents. What I missed was an appreciation for the role of interactions between the robots and the need to negotiate on shared goals. This naturally led into research centered on [cooperative reinforcement learning](https://link.springer.com/article/10.1007/s10846-021-01387-1), [network control](https://ieeexplore.ieee.org/abstract/document/9931405), and [complex systems](https://ieeexplore.ieee.org/abstract/document/10741086). 
 
