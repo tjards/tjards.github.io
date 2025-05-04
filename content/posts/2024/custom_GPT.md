@@ -2,8 +2,8 @@
 date: '2024-12-25T18:43:18-05:00'
 draft: false
 title: 'Co-doc: A Custom GPT Research Assistant'
-tags: ["featured", "ai"]
-categories: ["research"]
+tags: ["ai"]
+categories: ["research", "project"]
 ---
 
 ## Key Points

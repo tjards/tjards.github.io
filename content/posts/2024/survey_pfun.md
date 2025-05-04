@@ -2,7 +2,7 @@
 date: '2024-11-24T14:47:03-05:00'
 draft: false
 title: 'A Survey of Potential Functions for Multi-agent Systems'
-tags: ["survey", "featured"]
+tags: []
 categories: ["research"]
 ---
 

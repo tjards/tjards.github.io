@@ -2,7 +2,7 @@
 date: '2025-04-27T18:04:13-04:00'
 draft: false
 title: 'ContactsnApp: Extract and Annotate Phone Numbers from Images Using AI Models'
-tags: ['featured']
+tags: ['ai']
 categories: ['project']
 ShowToc: false
 ---
