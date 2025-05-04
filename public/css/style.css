@@ -40,7 +40,7 @@
    Footer Styles
 ---------------------------------*/
 .site-footer {
-  background-color: #f8f9fa;
+  background-color: #fcfcfc /*#f8f9fa */;
   padding: 20px;
   text-align: center;
   font-size: 0.9rem;
@@ -113,3 +113,16 @@
     gap: 0.5rem;
   }
 }
+
+/* ------------------------------
+   Header Styles
+---------------------------------*/
+
+.header {
+  background-color: #fcfcfc; /* light grey/white banner #fcfcfc #f8f9fa */
+  border-bottom: 1px solid #e7e7e7;
+  padding: 1px 0;
+}
+
+
+
