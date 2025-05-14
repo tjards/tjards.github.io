@@ -4,6 +4,7 @@ draft: false
 title: 'New publication in Automatica!'
 tags: ["pubs", 'featured']
 categories: ["research"]
+ShowToc: false
 ---
 
 ## Emergent homeomorphic curves in swarms

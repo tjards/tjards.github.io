@@ -3,6 +3,7 @@ date: '2025-04-18T13:44:05-04:00'
 draft: true
 title: 'Cooperative Learning in Drones'
 categories: ['project']
+ShowToc: false
 
 ---
 
