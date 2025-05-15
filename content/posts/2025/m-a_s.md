@@ -2,9 +2,10 @@
 date: '2025-05-04T07:04:13-04:00'
 draft: false
 title: Multi-agent Coordination Simulator
-tags: []
+tags: ['swarming']
 categories: ['project', 'research']
 ShowToc: false
+tools: ['Python']
 ---
 
 <p float="right">

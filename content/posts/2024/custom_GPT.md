@@ -4,6 +4,7 @@ draft: false
 title: 'Co-doc: A Custom GPT Research Assistant'
 tags: ["ai"]
 categories: ["research", "project"]
+tools: ['LLM']
 ---
 
 ## Key Points

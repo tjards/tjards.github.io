@@ -3,6 +3,11 @@ languageCode: en-us
 title: research notes
 theme: PaperMod
 
+taxonomies:
+  tag: tags
+  category: categories
+  tool: tools
+
 pagination:
   pagerSize: 3
 

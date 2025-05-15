@@ -26,13 +26,34 @@
     <loc>http://localhost:1313/categories/project/</loc>
     <lastmod>2025-05-04T07:04:13-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tools/python/</loc>
+    <lastmod>2025-05-04T07:04:13-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/research/</loc>
+    <lastmod>2025-05-04T07:04:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/swarming/</loc>
+    <lastmod>2025-05-04T07:04:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tools/</loc>
     <lastmod>2025-05-04T07:04:13-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2025-04-27T18:04:13-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tools/cnn/</loc>
+    <lastmod>2025-04-27T18:04:13-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/2025/contactsnapp/</loc>
+    <lastmod>2025-04-27T18:04:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tools/flask/</loc>
+    <lastmod>2025-04-27T18:04:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tools/toga/</loc>
+    <lastmod>2025-04-27T18:04:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tools/yolo/</loc>
     <lastmod>2025-04-27T18:04:13-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025/emergent_homeomorphic/</loc>
@@ -51,6 +72,9 @@
     <lastmod>2025-02-02T16:15:45-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2024/custom_gpt/</loc>
+    <lastmod>2024-12-25T18:43:18-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tools/llm/</loc>
     <lastmod>2024-12-25T18:43:18-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2024/survey_pfun/</loc>
