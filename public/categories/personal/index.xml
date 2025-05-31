@@ -6,8 +6,27 @@
     <description>Recent content in Personal on research notes</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Feb 2025 16:15:45 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 10:32:54 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go North</title>
+      <link>http://localhost:1313/posts/2025/gonorth/</link>
+      <pubDate>Sat, 31 May 2025 10:32:54 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025/gonorth/</guid>
+      <description>&lt;div style=&#34;display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between;&#34;&gt;
+&lt;div style=&#34;flex: 1; min-width: 300px; max-width: 60%; padding-right: 1em;&#34;&gt;
+&lt;p&gt;Man digs hole. &lt;br&gt;
+Finds precious object. &lt;br&gt;
+Takes it home. &lt;br&gt;
+Wipes it clean. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Genie appears. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Genie says, &lt;em&gt;&amp;ldquo;I will grant you one wish.&amp;rdquo;&lt;/em&gt; &lt;br&gt;
+Man says, &lt;em&gt;&amp;ldquo;I expected three.&amp;rdquo;&lt;/em&gt; &lt;br&gt;
+Genie says, &lt;em&gt;&amp;ldquo;Only one - and you will have to work for it.&amp;rdquo;&lt;/em&gt; &lt;br&gt;
+Man says, &lt;em&gt;&amp;ldquo;Then I want to live forever.&amp;rdquo;&lt;/em&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Compass appears in man&amp;rsquo;s hand. &lt;br&gt;
+Folded paper in the other. &lt;br&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Robots, Chaos, and Dune: Reflections on Unpredictability</title>
       <link>http://localhost:1313/posts/2025/robots-chaos-dune/</link>
