@@ -1,4 +1,4 @@
 ---
-title: "creative writing"
-description: "Some attempts branch out beyond the technical."
+title: "musings"
+description: "Some attempts to branch out beyond the technical."
 ---

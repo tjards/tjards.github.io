@@ -42,7 +42,8 @@ menu:
       name: projects
       url: /projects/
       weight: 15
-    - name: creative writing
+    - identifier: personal
+      name: musings
       url: /categories/personal/
       weight: 20  
 
