@@ -13,7 +13,9 @@
       <link>http://localhost:1313/posts/2025/gonorth/</link>
       <pubDate>Sat, 31 May 2025 10:32:54 -0400</pubDate>
       <guid>http://localhost:1313/posts/2025/gonorth/</guid>
-      <description>&lt;p&gt;Man digs hole. &lt;br&gt;
+      <description>&lt;div style=&#34;display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between;&#34;&gt;
+&lt;div style=&#34;flex: 1; min-width: 300px; max-width: 60%; padding-right: 1em;&#34;&gt;
+&lt;p&gt;Man digs hole. &lt;br&gt;
 Finds precious object. &lt;br&gt;
 Takes it home. &lt;br&gt;
 Wipes it clean. &lt;br&gt;&lt;/p&gt;
@@ -21,13 +23,31 @@ Wipes it clean. &lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Genie says, &lt;em&gt;&amp;ldquo;I will grant you one wish.&amp;rdquo;&lt;/em&gt; &lt;br&gt;
 Man says, &lt;em&gt;&amp;ldquo;I expected three.&amp;rdquo;&lt;/em&gt; &lt;br&gt;
 Genie says, &lt;em&gt;&amp;ldquo;Only one - and you will have to work for it.&amp;rdquo;&lt;/em&gt; &lt;br&gt;
-Man says, &lt;em&gt;&amp;ldquo;Then I want to live forever.&amp;rdquo;&lt;/em&gt;. &lt;br&gt;&lt;/p&gt;
+Man says, &lt;em&gt;&amp;ldquo;Then I want to live forever.&amp;rdquo;&lt;/em&gt; &lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Compass appears in man&amp;rsquo;s hand. &lt;br&gt;
-Folded paper in the other. &lt;br&gt;&lt;/p&gt;
-&lt;p&gt;Genie says, &lt;em&gt;&amp;ldquo;Follow the instructions. Use the compass.&amp;rdquo;&lt;/em&gt;&lt;br&gt;
-Vanishes. &lt;br&gt;&lt;/p&gt;
-&lt;p&gt;Man unfolds paper. &lt;br&gt;
-Reads: &lt;em&gt;&amp;ldquo;Go North.&amp;rdquo;&lt;/em&gt; &lt;br&gt;&lt;/p&gt;</description>
+Folded paper in the other. &lt;br&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Driving through Baltimore</title>
+      <link>http://localhost:1313/posts/2025/driving_thru_baltimore/</link>
+      <pubDate>Mon, 01 Apr 2024 19:18:36 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025/driving_thru_baltimore/</guid>
+      <description>&lt;p&gt;a bridge collapsed in Baltimore today &lt;br&gt;
+the guy on the radio is blaming the president &lt;br&gt;
+was he driving the boat?&lt;br&gt;
+I think it was that guy’s fault &lt;br&gt;
+the guy driving the boat &lt;br&gt;
+why did all the victims have names from other places?&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;across the world they’re making people fight&lt;br&gt;
+i don’t really know what orthodox means&lt;br&gt;
+you mean they didn’t have to before?&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;the previous president is selling bibles&lt;br&gt;
+to pay for his bail&lt;br&gt;
+because he paid a prostitute &lt;br&gt;
+and said he was a billionaire &lt;br&gt;
+but a millionaire for tax purposes &lt;br&gt;
+then became president for a while &lt;br&gt;
+and now he wants to be again&lt;br&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

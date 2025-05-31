@@ -13,7 +13,9 @@
       <link>http://localhost:1313/posts/2025/gonorth/</link>
       <pubDate>Sat, 31 May 2025 10:32:54 -0400</pubDate>
       <guid>http://localhost:1313/posts/2025/gonorth/</guid>
-      <description>&lt;p&gt;Man digs hole. &lt;br&gt;
+      <description>&lt;div style=&#34;display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between;&#34;&gt;
+&lt;div style=&#34;flex: 1; min-width: 300px; max-width: 60%; padding-right: 1em;&#34;&gt;
+&lt;p&gt;Man digs hole. &lt;br&gt;
 Finds precious object. &lt;br&gt;
 Takes it home. &lt;br&gt;
 Wipes it clean. &lt;br&gt;&lt;/p&gt;
@@ -21,13 +23,9 @@ Wipes it clean. &lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Genie says, &lt;em&gt;&amp;ldquo;I will grant you one wish.&amp;rdquo;&lt;/em&gt; &lt;br&gt;
 Man says, &lt;em&gt;&amp;ldquo;I expected three.&amp;rdquo;&lt;/em&gt; &lt;br&gt;
 Genie says, &lt;em&gt;&amp;ldquo;Only one - and you will have to work for it.&amp;rdquo;&lt;/em&gt; &lt;br&gt;
-Man says, &lt;em&gt;&amp;ldquo;Then I want to live forever.&amp;rdquo;&lt;/em&gt;. &lt;br&gt;&lt;/p&gt;
+Man says, &lt;em&gt;&amp;ldquo;Then I want to live forever.&amp;rdquo;&lt;/em&gt; &lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Compass appears in man&amp;rsquo;s hand. &lt;br&gt;
-Folded paper in the other. &lt;br&gt;&lt;/p&gt;
-&lt;p&gt;Genie says, &lt;em&gt;&amp;ldquo;Follow the instructions. Use the compass.&amp;rdquo;&lt;/em&gt;&lt;br&gt;
-Vanishes. &lt;br&gt;&lt;/p&gt;
-&lt;p&gt;Man unfolds paper. &lt;br&gt;
-Reads: &lt;em&gt;&amp;ldquo;Go North.&amp;rdquo;&lt;/em&gt; &lt;br&gt;&lt;/p&gt;</description>
+Folded paper in the other. &lt;br&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Project Updates</title>
@@ -119,6 +117,28 @@ Reads: &lt;em&gt;&amp;ldquo;Go North.&amp;rdquo;&lt;/em&gt; &lt;br&gt;&lt;/p&gt;
       <description>&lt;p&gt;One of our grad students (Dimitria) recently presented findings at the &lt;a href=&#34;https://2024.ieeeisse.org/&#34;&gt;2024 IEEE International Symposium on Systems Engineering (ISSE)&lt;/a&gt; in Perugia, Italy. This new work builds off some of our earlier investigations into &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9931405&#34;&gt;emergent leminscate traectories&lt;/a&gt; by providing a more general solution, applicable to a wide range of closed-curve trajectories.&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;This work investigates the self-organization of multi-agent systems into closed trajectories, a common requirement in unmanned aerial vehicle (UAV) surveillance tasks. In such scenarios, smooth, unbiased control signals save energy and mitigate mechanical strain. We propose a decentralized control system architecture that produces a globally stable emergent structure from local observations only; there is no requirement for agents to share a global plan or follow prescribed trajectories. Central to our approach is the formulation of an injective virtual embedding induced by rotations from the actual agent positions. This embedding serves as a structure-preserving map around which all agent stabilize their relative positions and permits the use of well-established linear control techniques. We construct the embedding such that it is topologically equivalent to the desired trajectory (i.e., a homeomorphism), thereby preserving the stability characteristics. We demonstrate the versatility of this approach through implementation on a swarm of Quanser QDrone quadcopters. Results demonstrate the quadcopters self-organize into the desired trajectory while maintaining even separation.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Driving through Baltimore</title>
+      <link>http://localhost:1313/posts/2025/driving_thru_baltimore/</link>
+      <pubDate>Mon, 01 Apr 2024 19:18:36 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025/driving_thru_baltimore/</guid>
+      <description>&lt;p&gt;a bridge collapsed in Baltimore today &lt;br&gt;
+the guy on the radio is blaming the president &lt;br&gt;
+was he driving the boat?&lt;br&gt;
+I think it was that guy’s fault &lt;br&gt;
+the guy driving the boat &lt;br&gt;
+why did all the victims have names from other places?&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;across the world they’re making people fight&lt;br&gt;
+i don’t really know what orthodox means&lt;br&gt;
+you mean they didn’t have to before?&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;the previous president is selling bibles&lt;br&gt;
+to pay for his bail&lt;br&gt;
+because he paid a prostitute &lt;br&gt;
+and said he was a billionaire &lt;br&gt;
+but a millionaire for tax purposes &lt;br&gt;
+then became president for a while &lt;br&gt;
+and now he wants to be again&lt;br&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>New publication: Flocks, Mobs, and Figure Eights - Swarming as a Lemniscatic Arch</title>
