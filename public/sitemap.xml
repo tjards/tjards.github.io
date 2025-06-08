@@ -8,9 +8,6 @@
     <loc>http://localhost:1313/tags/culture/</loc>
     <lastmod>2025-06-08T13:42:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/matrix_entropy/</loc>
-    <lastmod>2025-06-08T13:42:09-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/personal/</loc>
     <lastmod>2025-06-08T13:42:09-04:00</lastmod>
   </url><url>
@@ -21,6 +18,9 @@
     <lastmod>2025-06-08T13:42:09-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-08T13:42:09-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/matrix_entropy/</loc>
     <lastmod>2025-06-08T13:42:09-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/creative/</loc>
@@ -82,6 +82,9 @@
   </url><url>
     <loc>http://localhost:1313/tools/llm/</loc>
     <lastmod>2024-12-25T18:43:18-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags-backup/</loc>
+    <lastmod>2024-12-24T14:23:24-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2024/survey_pfun/</loc>
     <lastmod>2024-11-24T14:47:03-05:00</lastmod>
