@@ -6,8 +6,19 @@
     <description>Recent content in Posts on research notes</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jun 2025 13:42:09 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 17:18:41 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Future of AI is in Lower Dimensions</title>
+      <link>http://localhost:1313/posts/2025/hypospace_learn/</link>
+      <pubDate>Mon, 29 Sep 2025 17:18:41 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025/hypospace_learn/</guid>
+      <description>&lt;p&gt;In a recent interview with Lex Fridman entitled &amp;ldquo;Dark Matter of Intelligence and Self-Supervised Learning,&amp;rdquo; outspoken AI pioneer &lt;a href=&#34;http://yann.lecun.com/&#34;&gt;Yann Lecun&lt;/a&gt; suggested the next leap in Artificial Intelligence (AI) will come from learning in lower-dimensional latent spaces.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;You don&amp;rsquo;t predict pixels, you predict an abstract representation of pixels.&amp;rdquo;&lt;/em&gt; - Yann Lecun&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;What does he mean and how is it relevant to the future of AI?&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s back up and consider the context in which this statement was made. Yann was discussing the limitations of current AI systems, particularly those based on deep neural networks. In a &lt;a href=&#34;http://localhost:1313/posts/2025/matrix_entropy&#34;&gt;previous article&lt;/a&gt;, we touched on one such example — Large Language Models (LLMs). LLMs have demonstrated impressive performance across an array of language-related tasks. So popular, a recent &lt;a href=&#34;https://arxiv.org/abs/2401.05749&#34;&gt;AWS study&lt;/a&gt; found a &amp;ldquo;shocking amount of the web&amp;rdquo; is already LLM-generated. This is problematic, as LLMs trained on this kind of synthetic content break down, lose their ability to generalize, and go insane. A recent &lt;a href=&#34;https://www.nature.com/articles/s41586-024-07566-y&#34;&gt;Nature article&lt;/a&gt; described this phenomenon in detail.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Machines Built The Matrix to Avoid Model Collapse</title>
       <link>http://localhost:1313/posts/2025/matrix_entropy/</link>

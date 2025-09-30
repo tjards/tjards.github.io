@@ -2,7 +2,7 @@
 date: '2025-06-08T13:42:09-04:00'
 draft: False
 title: 'The Machines Built The Matrix to Avoid Model Collapse'
-tags: ['culture']
+tags: ['culture', 'featured']
 categories: ['personal']
 ---
 
