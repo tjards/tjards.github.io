@@ -24,13 +24,13 @@ Contemporary models typically process raw sensor data like pixels, point clouds,
 
 If you think about it, this is exactly not how humans learn. **We don't process every little detail in our environment.** No, we pull out the important features and ignore the things that don't matter. Consider the example of catching a baseball. As it falls towards you, you're not paying attention to the color, texture, or even shape of the ball. You're certainly not thinking about the equations of motion that govern its flight. You're focused on a few key features — where it is relative to your glove (in 2D space) and how much bigger it's getting (in 1D space). From this, you make predictions about its path and adjust the position of your glove. The rest is noise. 
 
+While simple dimensionality reduction techniques (like, for example, Principal Component Analysis) reduce complexity, Yann’s point is different --- the goal is not just compression, but the discovery of causal abstractions that explain why the world behaves the way it does.
+
 ## Learning latent spaces
 
 Incorporating latent spaces into learning is not a new idea. They are already foundational to how many generative models work. Some [diffusion models](https://github.com/Stability-AI/generative-models), for example, run certain processes in compressed latent spaces. [Generative Adversarial Networks (GANs)](https://arxiv.org/abs/1406.2661) do something similar, mapping meaningful representations of data from compact latent spaces; these can then be manipulated to control the generation process (e.g., add a hat to a person's head). 
 
-Yann argues that truly intelligent systems need to learn latent representations of the physical world as well. These latent spaces **capture the essential structure of the environment** so the models can make accurate predictions when the little things change. He lays out a blueprint in ["A Path Towards Autonomous Machine Intelligence"](https://openreview.net/forum?id=BZ5a1r-kVsf). 
-
-Right now, these latent spaces are generally static and bespoke. A model trained to recognize a cat, for example, will learn a latent space for arrangements of pixels related to cat features. Yann is pushing for latent spaces that encode the causal structure of the world, the dynamic properties of physics itself. This would allow the models to generalize across the underlying structures that govern reality, rather than arrangements of pixels on a screen.  
+Existing uses of latent spaces are largely static and domain-specific. For instance, a latent space trained to recognize cats does not help a model understand gravity or motion. Yann argues that truly intelligent systems need to learn latent representations of the physical world as well. These latent spaces **capture the essential structure of the environment** so the models can make accurate predictions when the little things change. He lays out a blueprint in ["A Path Towards Autonomous Machine Intelligence"](https://openreview.net/forum?id=BZ5a1r-kVsf). 
 
 ## Why this matters for the future of AI
 
