@@ -1,6 +1,6 @@
 ---
 date: '2025-05-31T10:32:54-04:00'
-draft: false
+draft: true
 title: 'Go North'
 tags: ['creative']
 categories: ['personal']

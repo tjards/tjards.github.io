@@ -5,11 +5,9 @@ summary: about
 ShowToc: false
 ---
 
-
 <p float="right">
   <img src="/img/me2.JPEG" width="20%" style="float: left; margin: 0 1em 0 0;"/>
 </p>
-
 
 I am an Adjunct Assistant Professor with the School of Computing at Queen's University in Canada and early member of the [Autonomous Robotics Research Group](https://labs.cs.queensu.ca/quarrg/).
 
@@ -20,4 +18,6 @@ A full list of my publications can be found [here](https://scholar.google.com/ci
 ### student supervision 
 
 I am currently supervising graduate students at the Master's and PhD levels and am open to discussing new opportunities. If you are interested, feel free to send me an <a href="mailto:p.jardine@queensu.ca">email</a> and we can set up time to chat.
+
+
 

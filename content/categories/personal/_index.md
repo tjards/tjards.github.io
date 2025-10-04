@@ -1,5 +1,5 @@
 ---
-title: "musings"
-description: "Some attempts to branch out beyond the technical."
+title: "annex"
+description: "some less technical musings on things in between."
 ShowBreadCrumbs: false
 ---

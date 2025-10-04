@@ -43,7 +43,7 @@ menu:
       url: /projects/
       weight: 15
     - identifier: personal
-      name: musings
+      name: annex
       url: /categories/personal/
       weight: 20  
 
