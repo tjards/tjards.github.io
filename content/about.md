@@ -19,5 +19,8 @@ A full list of my publications can be found [here](https://scholar.google.com/ci
 
 I am currently supervising graduate students at the Master's and PhD levels and am open to discussing new opportunities. If you are interested, feel free to send me an <a href="mailto:p.jardine@queensu.ca">email</a> and we can set up time to chat.
 
+### domain name
 
+The domain name *myapunov* is a reference to Lyapunov stability, a fundamental concept in **control systems theory**. It is named after the Russian mathematician **Aleksandr Lyapunov**, who made significant contributions to the field. A system is said to be stable in the Lyapunov sense if we can can construct a representative energy-based function that continually decreases over time. If this *Lyapunov* function always decreases, the system naturally returns to an equilibrium and thus can be considered **stable**.
 
+The term myapunov (**my** + Ly**apunov**) reflects personal ownership over my ideas, which I strive to ground and self-correct - a metaphor for seeking balance and resilience within complexity.

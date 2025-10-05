@@ -60,7 +60,7 @@ params:
 
   homeInfoParams:
     Title: research notes
-    Content: thoughts on robotics, control, and artificial intelligence
+    Content: tangents on robotics, control, and artificial intelligence
 
   assets:
     css:

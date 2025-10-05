@@ -27,18 +27,5 @@
       <description>&lt;p&gt;&lt;em&gt;A new theory for why the Machines kept humans alive in&lt;/em&gt; The Matrix &lt;em&gt;—inspired by recent discoveries in scaling large language models.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;One measure of a film’s quality is the diversity of fan theories it inspires. When a story has the right blend of depth, ambiguity, and cultural timing, the entertainment value extends past the credits—it compels audiences to dissect and reinterpret decades later. &lt;em&gt;The Matrix&lt;/em&gt; is a great example of this: 25 years on, people are still following the white rabbit down Reddit threads. A quick internet search reveals a &lt;a href=&#34;https://screenrant.com/matrix-movies-franchise-fan-theories-hope-true/&#34;&gt;myriad of fan theories&lt;/a&gt; about the true nature of its characters and storylines. &lt;a href=&#34;https://www.ranker.com/list/matrix-fan-theories/nathan-gibson&#34;&gt;One&lt;/a&gt; even claims &lt;em&gt;John Wick&lt;/em&gt; is actually a sequel to &lt;em&gt;The Matrix&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>New publication in Automatica!</title>
-      <link>http://localhost:1313/posts/2025/emergent_homeomorphic/</link>
-      <pubDate>Fri, 28 Feb 2025 21:14:56 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025/emergent_homeomorphic/</guid>
-      <description>&lt;h2 id=&#34;emergent-homeomorphic-curves-in-swarms&#34;&gt;Emergent homeomorphic curves in swarms&lt;/h2&gt;
-&lt;p&gt;This work introduces the concept of geometric embeddings, which permit the application of linear control policies to produce globally-stable emergent curves in swarms of unmanned aerial vehicles. The vehicles make decisions based only on local observations, without knowing their role in the larger group. Below is an animation of the technique being used to produce a lemniscatic arc.&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&#34;http://localhost:1313/img/2025/animation3D_cool.gif&#34; alt=&#34;&#34; style=&#34;width: 400px; height: auto&#34;&gt;
-&lt;/figure&gt;
-&lt;p&gt;Article available &lt;a href=&#34;https://doi.org/10.1016/j.automatica.2025.112221&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Code available &lt;a href=&#34;https://github.com/tjards/multi-agent_sim&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
