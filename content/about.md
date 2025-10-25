@@ -21,7 +21,7 @@ I am currently supervising graduate students at the Master's and PhD levels and 
 
 ### this website
 
-This website was built with [Hugo](https://gohugo.io/) using the [Papermod](https://github.com/adityatelange/hugo-PaperMod) theme. The source code can be found on my [GitHub](https://github.com/adityatelange/hugo-PaperMod).
+This website was built with [Hugo](https://gohugo.io/) using the [Papermod](https://github.com/adityatelange/hugo-PaperMod) theme. The source code can be found on my [GitHub](https://github.com/tjards/tjards.github.io).
 
 The domain name *myapunov* is a reference to Lyapunov stability, a fundamental concept in **control systems theory**. It is named after the Russian mathematician **Aleksandr Lyapunov**, who made significant contributions to the field. A system is said to be stable in the Lyapunov sense if we can construct a representative energy-based function that continually decreases over time. If this *Lyapunov* function always decreases, the system naturally returns to an equilibrium and thus can be considered **stable**.
 
