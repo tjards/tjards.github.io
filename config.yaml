@@ -66,10 +66,13 @@ params:
     css:
       - css/style.css
     
-    favicon: "img/favicon-quarrg.ico"
-    favicon16x16: "img/favicon-quarrg.png"
-    favicon32x32: "img/favicon-quarrg.png"
+    #favicon: "img/favicon-quarrg.ico"
+    #favicon16x16: "img/favicon-quarrg.png"
+    #favicon32x32: "img/favicon-quarrg.png"
 
+    favicon: "img/cloud-l.ico"
+    favicon16x16: "img/cloud-l.jpeg"
+    favicon32x32: "img/cloud-l.jpeg"
 
   socialIcons:
     - name: github
@@ -123,7 +126,8 @@ params:
   label:
     text: "Home"
     #icon: /apple-touch-icon.png
-    iconHeight: 35
+    #icon: img/cloud-l.jpeg
+    iconHeight: 40
 
   # profile-mode
   profileMode:

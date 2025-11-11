@@ -32,6 +32,16 @@
 &lt;p&gt;I asked ChatGPT how the project went. Here it is in her own words:&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Cooperative Learning in Drones</title>
+      <link>http://localhost:1313/posts/2025/project-1/</link>
+      <pubDate>Fri, 18 Apr 2025 13:44:05 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2025/project-1/</guid>
+      <description>&lt;p&gt;During my PhD studies, I focused on &lt;a href=&#34;https://qspace.library.queensu.ca/server/api/core/bitstreams/1c9408b0-3a4a-44f9-b6dc-51269022008e/content&#34;&gt;learning-based predictive control&lt;/a&gt; applied to automomous&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1002/acs.2882&#34;&gt;Adaptive predictive control of a differential drive robot tuned with reinforcement learning&lt;/a&gt;, Journal of Adaptive Control and Signal Processing, April 2018.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1109/JSYST.2020.3003203&#34;&gt;Leveraging Data Engineering to Improve Unmanned Aerial Vehicle Control Design&lt;/a&gt; published in IEEE Systems Journal, July 2020.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007/s10846-021-01387-1&#34;&gt;Improving Control Performance of Unmanned Aerial Vehicles through Shared Experience&lt;/a&gt;, Journal of Intelligent &amp;amp; Robotic Systems, June 2021.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Co-doc: A Custom GPT Research Assistant</title>
       <link>http://localhost:1313/posts/2024/custom_gpt/</link>
       <pubDate>Wed, 25 Dec 2024 18:43:18 -0500</pubDate>

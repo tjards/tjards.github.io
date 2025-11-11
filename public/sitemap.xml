@@ -41,6 +41,12 @@
     <loc>http://localhost:1313/posts/2025/matrix_entropy/</loc>
     <lastmod>2025-06-08T13:42:09-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/creative/</loc>
+    <lastmod>2025-05-31T10:32:54-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/gonorth/</loc>
+    <lastmod>2025-05-31T10:32:54-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/2025/project_update/</loc>
     <lastmod>2025-05-04T19:16:29-04:00</lastmod>
   </url><url>
@@ -64,6 +70,9 @@
   </url><url>
     <loc>http://localhost:1313/tools/yolo/</loc>
     <lastmod>2025-04-27T18:04:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/project-1/</loc>
+    <lastmod>2025-04-18T13:44:05-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025/emergent_homeomorphic/</loc>
     <lastmod>2025-02-28T21:14:56-04:00</lastmod>
