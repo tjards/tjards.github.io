@@ -53,7 +53,7 @@ And so I surrendered this small jar of honey as a sacrifice to the gods, trustin
 
 Since this experience, I have done a bit more research into the relevant regulations. Presumably, the agent was referring to the Canadian Air Transport Security Authority (CATSA) rule for carry-on luggage as follows:
 
-“Containers of liquids, non-solid food and personal items in your carry-on must be 100 ml/100 g (3.4 oz) or less. All containers must fit in one clear, resealable plastic bag no more than 1L in capacity. The bag must be transparent so screening officers can easily see the contents.”
+*“Containers of liquids, non-solid food and personal items in your carry-on must be 100 ml/100 g (3.4 oz) or less. All containers must fit in one clear, resealable plastic bag no more than 1L in capacity. The bag must be transparent so screening officers can easily see the contents.”*
 
 Note that there is some ambiguity, suggesting 100 mL and 100 g are the same thing. Given the parenthesized amplification of 3.4 fluid ounces and later reference to volumetric capacity in litres, I think — on the balance of probabilities — the intent of this rule is to constrain items by volume, with the conversion to mass approximating all liquids or non-solid items to be equal in density to water. The agent’s reference to volume almost certainly confirms this as their interpretation.
 
