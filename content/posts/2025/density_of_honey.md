@@ -1,6 +1,6 @@
 ---
 date: '2025-11-23T16:02:59-05:00'
-draft: false
+draft: true
 title: 'The Density of Honey'
 tags: []
 categories: ['personal']
