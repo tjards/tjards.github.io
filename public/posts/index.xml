@@ -6,8 +6,18 @@
     <description>Recent content in Posts on research notes</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Sep 2025 17:18:41 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 16:02:59 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Density of Honey</title>
+      <link>http://localhost:1313/posts/2025/density_of_honey/</link>
+      <pubDate>Sun, 23 Nov 2025 16:02:59 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/density_of_honey/</guid>
+      <description>&lt;p&gt;&lt;em&gt;A small story about the density of honey at airports.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;There I was standing in front of a stainless steel table, belongings strewn about, a sweater spilling out of my half-unzipped duffel bag. A stranger was rummaging through my stuff. I had no shoes on. I had arrived three hours early — probably too early — mostly out of anxiety surrounding the unpredictability of moments like this.&lt;/p&gt;
+&lt;p&gt;Then the airport security agent pulled a small jar of honey from my bag, as if it were an emerald excavated from an ancient tomb in some long-forgotten jungle.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Future of AI is in Lower Dimensions</title>
       <link>http://localhost:1313/posts/2025/hypospace_learn/</link>
@@ -26,25 +36,6 @@
       <guid>http://localhost:1313/posts/2025/matrix_entropy/</guid>
       <description>&lt;p&gt;&lt;em&gt;A new theory for why the Machines kept humans alive in&lt;/em&gt; The Matrix &lt;em&gt;—inspired by recent discoveries in scaling large language models.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;One measure of a film’s quality is the diversity of fan theories it inspires. When a story has the right blend of depth, ambiguity, and cultural timing, the entertainment value extends past the credits—it compels audiences to dissect and reinterpret decades later. &lt;em&gt;The Matrix&lt;/em&gt; is a great example of this: 25 years on, people are still following the white rabbit down Reddit threads. A quick internet search reveals a &lt;a href=&#34;https://screenrant.com/matrix-movies-franchise-fan-theories-hope-true/&#34;&gt;myriad of fan theories&lt;/a&gt; about the true nature of its characters and storylines. &lt;a href=&#34;https://www.ranker.com/list/matrix-fan-theories/nathan-gibson&#34;&gt;One&lt;/a&gt; even claims &lt;em&gt;John Wick&lt;/em&gt; is actually a sequel to &lt;em&gt;The Matrix&lt;/em&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Go North</title>
-      <link>http://localhost:1313/posts/2025/gonorth/</link>
-      <pubDate>Sat, 31 May 2025 10:32:54 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025/gonorth/</guid>
-      <description>&lt;div style=&#34;display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between;&#34;&gt;
-&lt;div style=&#34;flex: 1; min-width: 300px; max-width: 60%; padding-right: 1em;&#34;&gt;
-&lt;p&gt;Man digs hole. &lt;br&gt;
-Finds precious object. &lt;br&gt;
-Takes it home. &lt;br&gt;
-Wipes it clean. &lt;br&gt;&lt;/p&gt;
-&lt;p&gt;Genie appears. &lt;br&gt;&lt;/p&gt;
-&lt;p&gt;Genie says, &lt;em&gt;&amp;ldquo;I will grant you one wish.&amp;rdquo;&lt;/em&gt; &lt;br&gt;
-Man says, &lt;em&gt;&amp;ldquo;I expected three.&amp;rdquo;&lt;/em&gt; &lt;br&gt;
-Genie says, &lt;em&gt;&amp;ldquo;Only one - and you will have to work for it.&amp;rdquo;&lt;/em&gt; &lt;br&gt;
-Man says, &lt;em&gt;&amp;ldquo;Then I want to live forever.&amp;rdquo;&lt;/em&gt; &lt;br&gt;&lt;/p&gt;
-&lt;p&gt;Compass appears in man&amp;rsquo;s hand. &lt;br&gt;
-Folded paper in the other. &lt;br&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Project Updates</title>
@@ -76,16 +67,6 @@ Folded paper in the other. &lt;br&gt;&lt;/p&gt;</description>
 &lt;p&gt;Building on my earlier exploration of &lt;a href=&#34;https://tjards.github.io/posts/2024/custom_gpt/&#34;&gt;custom ChatGPTs&lt;/a&gt;, I tried building an AI app from scratch, primarily using vibe coding supported by &lt;a href=&#34;https://code.visualstudio.com/docs/copilot/overview&#34;&gt;GitHub Copilot in VSCode&lt;/a&gt;. Inspired by a recent Airbnb experience, I developed &lt;a href=&#34;https://github.com/tjards/ContactsnApp&#34;&gt;ContactsnApp&lt;/a&gt;: a user-friendly application designed to streamline the extraction and annotation of phone numbers from images using AI models.&lt;/p&gt;
 &lt;h2 id=&#34;comments-from-the-co-author&#34;&gt;Comments from the Co-author&lt;/h2&gt;
 &lt;p&gt;I asked ChatGPT how the project went. Here it is in her own words:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cooperative Learning in Drones</title>
-      <link>http://localhost:1313/posts/2025/project-1/</link>
-      <pubDate>Fri, 18 Apr 2025 13:44:05 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025/project-1/</guid>
-      <description>&lt;p&gt;During my PhD studies, I focused on &lt;a href=&#34;https://qspace.library.queensu.ca/server/api/core/bitstreams/1c9408b0-3a4a-44f9-b6dc-51269022008e/content&#34;&gt;learning-based predictive control&lt;/a&gt; applied to automomous&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1002/acs.2882&#34;&gt;Adaptive predictive control of a differential drive robot tuned with reinforcement learning&lt;/a&gt;, Journal of Adaptive Control and Signal Processing, April 2018.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1109/JSYST.2020.3003203&#34;&gt;Leveraging Data Engineering to Improve Unmanned Aerial Vehicle Control Design&lt;/a&gt; published in IEEE Systems Journal, July 2020.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007/s10846-021-01387-1&#34;&gt;Improving Control Performance of Unmanned Aerial Vehicles through Shared Experience&lt;/a&gt;, Journal of Intelligent &amp;amp; Robotic Systems, June 2021.&lt;/p&gt;</description>
     </item>
     <item>
       <title>New publication in Automatica!</title>
