@@ -5,7 +5,7 @@ title: 'ContactsnApp: Extract and Annotate Phone Numbers from Images Using AI Mo
 tags: ['ai']
 categories: ['project']
 ShowToc: false
-tools: ['Python', 'YOLO', 'Flask', 'vibe coding']
+tools: ['Python', 'YOLO', 'Flask']
 ---
 
 <p float="right">
