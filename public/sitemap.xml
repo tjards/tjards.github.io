@@ -50,16 +50,13 @@
     <loc>http://localhost:1313/categories/project/</loc>
     <lastmod>2025-05-04T07:04:13-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/cnn/</loc>
-    <lastmod>2025-04-27T18:04:13-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/2025/contactsnapp/</loc>
     <lastmod>2025-04-27T18:04:13-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tools/flask/</loc>
     <lastmod>2025-04-27T18:04:13-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tools/toga/</loc>
+    <loc>http://localhost:1313/tools/vibe-coding/</loc>
     <lastmod>2025-04-27T18:04:13-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tools/yolo/</loc>
