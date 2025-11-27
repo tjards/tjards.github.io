@@ -6,18 +6,8 @@
     <description>Recent content on research notes</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Nov 2025 16:02:59 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 17:18:41 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Density of Honey</title>
-      <link>http://localhost:1313/posts/2025/density_of_honey/</link>
-      <pubDate>Sun, 23 Nov 2025 16:02:59 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2025/density_of_honey/</guid>
-      <description>&lt;p&gt;&lt;em&gt;A small story about the density of honey at airports.&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;There I was standing in front of a stainless steel table, belongings strewn about, a sweater spilling out of my half-unzipped duffel bag. A stranger was rummaging through my stuff. I had no shoes on. I had arrived three hours early — probably too early — mostly out of anxiety surrounding the unpredictability of moments like this.&lt;/p&gt;
-&lt;p&gt;Then the airport security agent pulled a small jar of honey from my bag, as if it were an emerald excavated from an ancient tomb in some long-forgotten jungle.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>The Future of AI is in Lower Dimensions</title>
       <link>http://localhost:1313/posts/2025/hypospace_learn/</link>
@@ -50,11 +40,19 @@
       <link>http://localhost:1313/posts/2025/m-a_s/</link>
       <pubDate>Sun, 04 May 2025 07:04:13 -0400</pubDate>
       <guid>http://localhost:1313/posts/2025/m-a_s/</guid>
-      <description>&lt;p float=&#34;right&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/img/2025/contactsnapp/m-a_s.png&#34; width=&#34;25%&#34; style=&#34;float: left; margin: 0 1em 0 0;&#34;/&gt;
-&lt;/p&gt;
-&lt;p&gt;A fully open architecture implementation of modern multi-agent coordination techniques.&lt;/p&gt;
-&lt;p&gt;Project description and code is available on &lt;a href=&#34;https://github.com/tjards/multi-agent_sim&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;div style=&#34;display: flex; align-items: flex-start; gap: 1.5rem; margin: 1rem 0;&#34;&gt;
+  &lt;!-- Left column --&gt;
+  &lt;div style=&#34;flex: 0 0 25%;&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/img/2025/m-a_s/m-a_s.png&#34; style=&#34;width: 100%; height: auto; border-radius: 4px;&#34; /&gt;
+  &lt;/div&gt;
+  &lt;!-- Right column --&gt;
+  &lt;div style=&#34;flex: 1;&#34;&gt;
+    &lt;p&gt;
+      A fully open architecture implementation of modern multi-agent coordination techniques. All agents make individual decisions based on local information only. There is no global plan.
+    &lt;/p&gt;
+    &lt;p&gt;
+    This is an open project I use to explore new ideas, validate theoretical results, and produce data for my academic research. 
+    &lt;/p&gt;</description>
     </item>
     <item>
       <title>ContactsnApp: Extract and Annotate Phone Numbers from Images Using AI Models</title>
