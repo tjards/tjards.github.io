@@ -2,94 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tjards.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-11-23T16:02:59-05:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-11-23T16:02:59-05:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/tags/ai/</loc>
+    <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2025-09-29T17:18:41-04:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-09-29T17:18:41-04:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/tags/featured/</loc>
+    <loc>http://localhost:1313/tags/featured/</loc>
     <lastmod>2025-09-29T17:18:41-04:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/tools/python/</loc>
+    <loc>http://localhost:1313/tools/python/</loc>
     <lastmod>2025-09-29T17:18:41-04:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/categories/research/</loc>
+    <loc>http://localhost:1313/categories/research/</loc>
     <lastmod>2025-09-29T17:18:41-04:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-09-29T17:18:41-04:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/posts/2025/hypospace_learn/</loc>
+    <loc>http://localhost:1313/posts/2025/hypospace_learn/</loc>
     <lastmod>2025-09-29T17:18:41-04:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/tools/</loc>
+    <loc>http://localhost:1313/tools/</loc>
     <lastmod>2025-09-29T17:18:41-04:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/categories/personal/</loc>
+    <loc>http://localhost:1313/categories/personal/</loc>
     <lastmod>2025-06-08T13:42:09-04:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/tags/culture/</loc>
+    <loc>http://localhost:1313/tags/culture/</loc>
     <lastmod>2025-06-08T13:42:09-04:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/posts/2025/matrix_entropy/</loc>
+    <loc>http://localhost:1313/posts/2025/matrix_entropy/</loc>
     <lastmod>2025-06-08T13:42:09-04:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/posts/2025/project_update/</loc>
+    <loc>http://localhost:1313/posts/2025/project_update/</loc>
     <lastmod>2025-05-04T19:16:29-04:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/posts/2025/m-a_s/</loc>
+    <loc>http://localhost:1313/posts/2025/m-a_s/</loc>
     <lastmod>2025-05-04T07:04:13-04:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/categories/project/</loc>
+    <loc>http://localhost:1313/categories/project/</loc>
     <lastmod>2025-05-04T07:04:13-04:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/posts/2025/contactsnapp/</loc>
+    <loc>http://localhost:1313/posts/2025/contactsnapp/</loc>
     <lastmod>2025-04-27T18:04:13-04:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/tools/flask/</loc>
+    <loc>http://localhost:1313/tools/flask/</loc>
     <lastmod>2025-04-27T18:04:13-04:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/tools/yolo/</loc>
+    <loc>http://localhost:1313/tools/yolo/</loc>
     <lastmod>2025-04-27T18:04:13-04:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/posts/2025/emergent_homeomorphic/</loc>
+    <loc>http://localhost:1313/posts/2025/emergent_homeomorphic/</loc>
     <lastmod>2025-02-28T21:14:56-04:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/tags/pubs/</loc>
+    <loc>http://localhost:1313/tags/pubs/</loc>
     <lastmod>2025-02-28T21:14:56-04:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/posts/2025/robots-chaos-dune/</loc>
+    <loc>http://localhost:1313/posts/2025/robots-chaos-dune/</loc>
     <lastmod>2025-02-02T16:15:45-05:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/posts/2024/custom_gpt/</loc>
+    <loc>http://localhost:1313/posts/2024/custom_gpt/</loc>
     <lastmod>2024-12-25T18:43:18-05:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/tools/llm/</loc>
+    <loc>http://localhost:1313/tools/llm/</loc>
     <lastmod>2024-12-25T18:43:18-05:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/tags-backup/</loc>
+    <loc>http://localhost:1313/tags-backup/</loc>
     <lastmod>2024-12-24T14:23:24-05:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/posts/2024/survey_pfun/</loc>
+    <loc>http://localhost:1313/posts/2024/survey_pfun/</loc>
     <lastmod>2024-11-24T14:47:03-05:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/posts/2024/geometric_embeddings/</loc>
+    <loc>http://localhost:1313/posts/2024/geometric_embeddings/</loc>
     <lastmod>2024-10-21T20:08:52-05:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/posts/2022/lemniscates/</loc>
+    <loc>http://localhost:1313/posts/2022/lemniscates/</loc>
     <lastmod>2022-10-28T20:08:52-05:00</lastmod>
   </url><url>
-    <loc>https://tjards.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://tjards.github.io/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://tjards.github.io/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
   </url>
 </urlset>

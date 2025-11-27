@@ -62,7 +62,7 @@ This project was used to validate theoretical results in the following publicati
   <!-- Right column -->
   <div style="flex: 1;">
 
-  [Flocks, Mobs, and Figure Eights: Swarming as a Lemniscatic Arch](10.1109/TNSE.2022.3217460) published in *IEEE Transactions on Network Science and Engineering*, Vol 10 (2), Mar 2023)
+  [Flocks, Mobs, and Figure Eights: Swarming as a Lemniscatic Arch](https://doi.org/10.1109/TNSE.2022.3217460) published in *IEEE Transactions on Network Science and Engineering*, Vol 10 (2), Mar 2023
   </div>
 </div>
 
@@ -75,6 +75,6 @@ This project was used to validate theoretical results in the following publicati
   <!-- Right column -->
   <div style="flex: 1;">
 
-  [Emergent homeomorphic curves in swarms](https://doi.org/10.1016/j.automatica.2025.112221) published in *Automatica*, Vol 176, Jun 2025)
+  [Emergent homeomorphic curves in swarms](https://doi.org/10.1016/j.automatica.2025.112221) published in *Automatica*, Vol 176, Jun 2025
   </div>
 </div>

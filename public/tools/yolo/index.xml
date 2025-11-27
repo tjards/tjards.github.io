@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>YOLO on research notes</title>
-    <link>https://tjards.github.io/tools/yolo/</link>
+    <link>http://localhost:1313/tools/yolo/</link>
     <description>Recent content in YOLO on research notes</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Apr 2025 18:04:13 -0400</lastBuildDate>
-    <atom:link href="https://tjards.github.io/tools/yolo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tools/yolo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ContactsnApp: Extract and Annotate Phone Numbers from Images Using AI Models</title>
-      <link>https://tjards.github.io/posts/2025/contactsnapp/</link>
+      <link>http://localhost:1313/posts/2025/contactsnapp/</link>
       <pubDate>Sun, 27 Apr 2025 18:04:13 -0400</pubDate>
-      <guid>https://tjards.github.io/posts/2025/contactsnapp/</guid>
+      <guid>http://localhost:1313/posts/2025/contactsnapp/</guid>
       <description>&lt;p float=&#34;right&#34;&gt;
-  &lt;img src=&#34;https://tjards.github.io/img/2025/contactsnapp/CsnApp.jpeg&#34; width=&#34;25%&#34; style=&#34;float: left; margin: 0 1em 0 0;&#34;/&gt;
+  &lt;img src=&#34;http://localhost:1313/img/2025/contactsnapp/CsnApp.jpeg&#34; width=&#34;25%&#34; style=&#34;float: left; margin: 0 1em 0 0;&#34;/&gt;
 &lt;/p&gt;
 &lt;p&gt;Building on my earlier exploration of &lt;a href=&#34;https://tjards.github.io/posts/2024/custom_gpt/&#34;&gt;custom ChatGPTs&lt;/a&gt;, I tried building an AI app from scratch, primarily using vibe coding supported by &lt;a href=&#34;https://code.visualstudio.com/docs/copilot/overview&#34;&gt;GitHub Copilot in VSCode&lt;/a&gt;. Inspired by a recent Airbnb experience, I developed &lt;a href=&#34;https://github.com/tjards/ContactsnApp&#34;&gt;ContactsnApp&lt;/a&gt;: a user-friendly application designed to streamline the extraction and annotation of phone numbers from images using AI models.&lt;/p&gt;
 &lt;h2 id=&#34;comments-from-the-co-author&#34;&gt;Comments from the Co-author&lt;/h2&gt;
