@@ -70,9 +70,9 @@ params:
     #favicon16x16: "img/favicon-quarrg.png"
     #favicon32x32: "img/favicon-quarrg.png"
 
-    favicon: "/img/cloud-l.ico"
-    favicon16x16: "/img/cloud-l.jpeg"
-    favicon32x32: "/img/cloud-l.jpeg"
+    favicon: "img/cloud-l.ico"
+    favicon16x16: "img/cloud-l.jpeg"
+    favicon32x32: "img/cloud-l.jpeg"
 
   socialIcons:
     - name: github

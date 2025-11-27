@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>categories on research notes</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://tjards.github.io/categories/</link>
     <description>Recent content in categories on research notes</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Sep 2025 17:18:41 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tjards.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/categories/research/</link>
+      <link>https://tjards.github.io/categories/research/</link>
       <pubDate>Mon, 29 Sep 2025 17:18:41 -0400</pubDate>
-      <guid>http://localhost:1313/categories/research/</guid>
+      <guid>https://tjards.github.io/categories/research/</guid>
       <description></description>
     </item>
     <item>
       <title>annex</title>
-      <link>http://localhost:1313/categories/personal/</link>
+      <link>https://tjards.github.io/categories/personal/</link>
       <pubDate>Sun, 08 Jun 2025 13:42:09 -0400</pubDate>
-      <guid>http://localhost:1313/categories/personal/</guid>
+      <guid>https://tjards.github.io/categories/personal/</guid>
       <description>some less technical musings on things in between.</description>
     </item>
     <item>
       <title>Project</title>
-      <link>http://localhost:1313/categories/project/</link>
+      <link>https://tjards.github.io/categories/project/</link>
       <pubDate>Sun, 04 May 2025 07:04:13 -0400</pubDate>
-      <guid>http://localhost:1313/categories/project/</guid>
+      <guid>https://tjards.github.io/categories/project/</guid>
       <description></description>
     </item>
   </channel>
