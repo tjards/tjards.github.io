@@ -45,7 +45,7 @@ So my honey was seized by the state.
 
 What did I learn from this experience?
 
-Nothing, really. It just reminded me how frustrating the world must have been before the scientific method dominated public institutions, when power and superstition mattered more than evidence. We are so lucky that it is only in the small, unanticipated gaps in regulations that we get a glimpse of how frustrating it must have been for anyone who dared to think critically in those times. 
+Nothing, really. It just reminded me how frustrating the world must have been before the scientific method dominated public institutions, when power and superstition mattered more than evidence. We are so lucky that it is only in the small, unanticipated gaps in regulations that we get a glimpse of how isolating it must have been for anyone who dared to think critically in those times. 
 
 And so I surrendered this small jar of honey as a sacrifice to the gods, trusting it might buy me a successful connection.
 
