@@ -2,7 +2,7 @@
 date: '2025-09-29T17:18:41-04:00'
 draft: false
 title: The Future of AI is in Lower Dimensions
-tags: ['featured', 'ai']
+tags: ['ai']
 categories: ['research']
 ShowToc: true
 tools: ['Python']

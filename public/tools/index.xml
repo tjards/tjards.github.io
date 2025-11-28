@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tools on research notes</title>
-    <link>https://myapunov.com/tools/</link>
+    <link>http://localhost:1313/tools/</link>
     <description>Recent content in Tools on research notes</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Sep 2025 17:18:41 -0400</lastBuildDate>
-    <atom:link href="https://myapunov.com/tools/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python</title>
-      <link>https://myapunov.com/tools/python/</link>
+      <link>http://localhost:1313/tools/python/</link>
       <pubDate>Mon, 29 Sep 2025 17:18:41 -0400</pubDate>
-      <guid>https://myapunov.com/tools/python/</guid>
+      <guid>http://localhost:1313/tools/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Flask</title>
-      <link>https://myapunov.com/tools/flask/</link>
+      <link>http://localhost:1313/tools/flask/</link>
       <pubDate>Sun, 27 Apr 2025 18:04:13 -0400</pubDate>
-      <guid>https://myapunov.com/tools/flask/</guid>
+      <guid>http://localhost:1313/tools/flask/</guid>
       <description></description>
     </item>
     <item>
       <title>YOLO</title>
-      <link>https://myapunov.com/tools/yolo/</link>
+      <link>http://localhost:1313/tools/yolo/</link>
       <pubDate>Sun, 27 Apr 2025 18:04:13 -0400</pubDate>
-      <guid>https://myapunov.com/tools/yolo/</guid>
+      <guid>http://localhost:1313/tools/yolo/</guid>
       <description></description>
     </item>
     <item>
       <title>LLM</title>
-      <link>https://myapunov.com/tools/llm/</link>
+      <link>http://localhost:1313/tools/llm/</link>
       <pubDate>Wed, 25 Dec 2024 18:43:18 -0500</pubDate>
-      <guid>https://myapunov.com/tools/llm/</guid>
+      <guid>http://localhost:1313/tools/llm/</guid>
       <description></description>
     </item>
   </channel>
