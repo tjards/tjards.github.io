@@ -44,7 +44,7 @@ menu:
       url: /projects/
       weight: 15
     - identifier: personal
-      name: annex
+      name: /annex
       url: /categories/personal/
       weight: 20  
 
@@ -64,8 +64,8 @@ params:
     Content: thoughts on robotics, control, and artificial intelligence
 
   assets:
-    css:
-      - css/style.css
+    #css:
+    #  - css/style.css
     
     #favicon: "img/favicon-quarrg.ico"
     #favicon16x16: "img/favicon-quarrg.png"
@@ -86,9 +86,9 @@ params:
       url: "https://scholar.google.com/citations?user=RGlv4ZUAAAAJ&hl=en"
 
   # defaultTheme: light
-  # defaultTheme: dark
+  #defaultTheme: dark
   # defaultTheme: auto
-  defaultTheme: light 
+  defaultTheme: light
 
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Personal Website"
