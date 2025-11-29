@@ -9,10 +9,10 @@
 .home-info::before {
   content: "";
   position: absolute;
-  top: 40%;
-  left: 75%;
-  width: 500px;          /* adjust to taste */
-  height: 500px;         /* adjust to taste */
+  top: 33%;
+  left: 60%;
+  width: 400px;          /* adjust to taste */
+  height: 400px;         /* adjust to taste */
   transform: translate(-50%, -50%);
   background-image: url("/img/favicon16x16.png");
   background-size: contain;
