@@ -1,6 +1,6 @@
 ---
 date: '2025-11-28T19:42:39-05:00'
-draft: false
+draft: true
 title: ivoryworks
 showBreadcrumbs: false
 showDate: false
