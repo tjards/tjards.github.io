@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on thoughts on my mind</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://myapunov.com/posts/</link>
     <description>Recent content in Posts on thoughts on my mind</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Nov 2025 16:02:59 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://myapunov.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Density of Honey</title>
-      <link>http://localhost:1313/posts/2025/density_of_honey/</link>
+      <link>https://myapunov.com/posts/2025/density_of_honey/</link>
       <pubDate>Sun, 23 Nov 2025 16:02:59 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2025/density_of_honey/</guid>
+      <guid>https://myapunov.com/posts/2025/density_of_honey/</guid>
       <description>&lt;p&gt;&lt;em&gt;A small story about the density of honey at airports.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;There I was standing in front of a stainless steel table, belongings strewn about, a sweater spilling out of my half-unzipped duffel bag. A stranger was rummaging through my stuff. I had no shoes on. I had arrived three hours early — probably too early — mostly out of anxiety surrounding the unpredictability of moments like this.&lt;/p&gt;
@@ -20,40 +20,40 @@
     </item>
     <item>
       <title>The Future of AI is in Lower Dimensions</title>
-      <link>http://localhost:1313/posts/2025/hypospace_learn/</link>
+      <link>https://myapunov.com/posts/2025/hypospace_learn/</link>
       <pubDate>Mon, 29 Sep 2025 17:18:41 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025/hypospace_learn/</guid>
+      <guid>https://myapunov.com/posts/2025/hypospace_learn/</guid>
       <description>&lt;p&gt;In a recent interview with Lex Fridman entitled &amp;ldquo;Dark Matter of Intelligence and Self-Supervised Learning,&amp;rdquo; outspoken AI pioneer &lt;a href=&#34;http://yann.lecun.com/&#34;&gt;Yann Lecun&lt;/a&gt; suggested the next leap in Artificial Intelligence (AI) will come from learning in lower-dimensional latent spaces.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&amp;ldquo;You don&amp;rsquo;t predict pixels, you predict an abstract representation of pixels.&amp;rdquo;&lt;/em&gt; - Yann Lecun&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;What does he mean and how is it relevant to the future of AI?&lt;/p&gt;
-&lt;p&gt;Let&amp;rsquo;s back up and consider the context in which this statement was made. Yann was discussing the limitations of current AI systems, particularly those based on deep neural networks. In a &lt;a href=&#34;http://localhost:1313/posts/2025/matrix_entropy&#34;&gt;previous article&lt;/a&gt;, we touched on one such example — Large Language Models (LLMs). LLMs have demonstrated impressive performance across an array of language-related tasks. So popular, a recent &lt;a href=&#34;https://arxiv.org/abs/2401.05749&#34;&gt;AWS study&lt;/a&gt; found a &amp;ldquo;shocking amount of the web&amp;rdquo; is already LLM-generated. This is problematic, as LLMs trained on this kind of synthetic content break down and lose their ability to generalize. A recent &lt;a href=&#34;https://www.nature.com/articles/s41586-024-07566-y&#34;&gt;Nature article&lt;/a&gt; described this &amp;ldquo;model collapse&amp;rdquo; phenomenon in detail.&lt;/p&gt;</description>
+&lt;p&gt;Let&amp;rsquo;s back up and consider the context in which this statement was made. Yann was discussing the limitations of current AI systems, particularly those based on deep neural networks. In a &lt;a href=&#34;https://myapunov.com/posts/2025/matrix_entropy&#34;&gt;previous article&lt;/a&gt;, we touched on one such example — Large Language Models (LLMs). LLMs have demonstrated impressive performance across an array of language-related tasks. So popular, a recent &lt;a href=&#34;https://arxiv.org/abs/2401.05749&#34;&gt;AWS study&lt;/a&gt; found a &amp;ldquo;shocking amount of the web&amp;rdquo; is already LLM-generated. This is problematic, as LLMs trained on this kind of synthetic content break down and lose their ability to generalize. A recent &lt;a href=&#34;https://www.nature.com/articles/s41586-024-07566-y&#34;&gt;Nature article&lt;/a&gt; described this &amp;ldquo;model collapse&amp;rdquo; phenomenon in detail.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Machines Built The Matrix to Avoid Model Collapse</title>
-      <link>http://localhost:1313/posts/2025/matrix_entropy/</link>
+      <link>https://myapunov.com/posts/2025/matrix_entropy/</link>
       <pubDate>Sun, 08 Jun 2025 13:42:09 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025/matrix_entropy/</guid>
+      <guid>https://myapunov.com/posts/2025/matrix_entropy/</guid>
       <description>&lt;p&gt;&lt;em&gt;A new theory for why the Machines kept humans alive in&lt;/em&gt; The Matrix &lt;em&gt;—inspired by recent discoveries in scaling large language models.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;One measure of a film’s quality is the diversity of fan theories it inspires. When a story has the right blend of depth, ambiguity, and cultural timing, the entertainment value extends past the credits—it compels audiences to dissect and reinterpret decades later. &lt;em&gt;The Matrix&lt;/em&gt; is a great example of this: 25 years on, people are still following the white rabbit down Reddit threads. A quick internet search reveals a &lt;a href=&#34;https://screenrant.com/matrix-movies-franchise-fan-theories-hope-true/&#34;&gt;myriad of fan theories&lt;/a&gt; about the true nature of its characters and storylines. &lt;a href=&#34;https://www.ranker.com/list/matrix-fan-theories/nathan-gibson&#34;&gt;One&lt;/a&gt; even claims &lt;em&gt;John Wick&lt;/em&gt; is actually a sequel to &lt;em&gt;The Matrix&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Project Updates</title>
-      <link>http://localhost:1313/posts/2025/project_update/</link>
+      <link>https://myapunov.com/posts/2025/project_update/</link>
       <pubDate>Sun, 04 May 2025 19:16:29 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025/project_update/</guid>
+      <guid>https://myapunov.com/posts/2025/project_update/</guid>
       <description>&lt;p&gt;You can now track all of our past and ongoing projects in one place!&lt;/p&gt;
-&lt;p&gt;Check out the projects section of our site &lt;a href=&#34;http://localhost:1313/projects&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Check out the projects section of our site &lt;a href=&#34;https://myapunov.com/projects&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Multi-agent Coordination Simulator</title>
-      <link>http://localhost:1313/posts/2025/m-a_s/</link>
+      <link>https://myapunov.com/posts/2025/m-a_s/</link>
       <pubDate>Sun, 04 May 2025 07:04:13 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025/m-a_s/</guid>
+      <guid>https://myapunov.com/posts/2025/m-a_s/</guid>
       <description>&lt;div style=&#34;display: flex; align-items: flex-start; gap: 1.5rem; margin: 1rem 0;&#34;&gt;
   &lt;!-- Left column --&gt;
   &lt;div style=&#34;flex: 0 0 25%;&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/img/2025/m-a_s/m-a_s.png&#34; style=&#34;width: 100%; height: auto; border-radius: 4px;&#34; /&gt;
+    &lt;img src=&#34;https://myapunov.com/img/2025/m-a_s/m-a_s.png&#34; style=&#34;width: 100%; height: auto; border-radius: 4px;&#34; /&gt;
   &lt;/div&gt;
   &lt;!-- Right column --&gt;
   &lt;div style=&#34;flex: 1;&#34;&gt;
@@ -66,11 +66,11 @@
     </item>
     <item>
       <title>ContactsnApp: Extract and Annotate Phone Numbers from Images Using AI Models</title>
-      <link>http://localhost:1313/posts/2025/contactsnapp/</link>
+      <link>https://myapunov.com/posts/2025/contactsnapp/</link>
       <pubDate>Sun, 27 Apr 2025 18:04:13 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025/contactsnapp/</guid>
+      <guid>https://myapunov.com/posts/2025/contactsnapp/</guid>
       <description>&lt;p float=&#34;right&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/img/2025/contactsnapp/CsnApp.jpeg&#34; width=&#34;25%&#34; style=&#34;float: left; margin: 0 1em 0 0;&#34;/&gt;
+  &lt;img src=&#34;https://myapunov.com/img/2025/contactsnapp/CsnApp.jpeg&#34; width=&#34;25%&#34; style=&#34;float: left; margin: 0 1em 0 0;&#34;/&gt;
 &lt;/p&gt;
 &lt;p&gt;Building on my earlier exploration of &lt;a href=&#34;https://tjards.github.io/posts/2024/custom_gpt/&#34;&gt;custom ChatGPTs&lt;/a&gt;, I tried building an AI app from scratch, primarily using vibe coding supported by &lt;a href=&#34;https://code.visualstudio.com/docs/copilot/overview&#34;&gt;GitHub Copilot in VSCode&lt;/a&gt;. Inspired by a recent Airbnb experience, I developed &lt;a href=&#34;https://github.com/tjards/ContactsnApp&#34;&gt;ContactsnApp&lt;/a&gt;: a user-friendly application designed to streamline the extraction and annotation of phone numbers from images using AI models.&lt;/p&gt;
 &lt;h2 id=&#34;comments-from-the-co-author&#34;&gt;Comments from the Co-author&lt;/h2&gt;
@@ -78,31 +78,31 @@
     </item>
     <item>
       <title>New publication in Automatica!</title>
-      <link>http://localhost:1313/posts/2025/emergent_homeomorphic/</link>
+      <link>https://myapunov.com/posts/2025/emergent_homeomorphic/</link>
       <pubDate>Fri, 28 Feb 2025 21:14:56 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025/emergent_homeomorphic/</guid>
+      <guid>https://myapunov.com/posts/2025/emergent_homeomorphic/</guid>
       <description>&lt;h2 id=&#34;emergent-homeomorphic-curves-in-swarms&#34;&gt;Emergent homeomorphic curves in swarms&lt;/h2&gt;
 &lt;p&gt;This work introduces the concept of geometric embeddings, which permit the application of linear control policies to produce globally-stable emergent curves in swarms of unmanned aerial vehicles. The vehicles make decisions based only on local observations, without knowing their role in the larger group. Below is an animation of the technique being used to produce a lemniscatic arc.&lt;/p&gt;
 &lt;figure&gt;
-  &lt;img src=&#34;http://localhost:1313/img/2025/animation3D_cool.gif&#34; alt=&#34;&#34; style=&#34;width: 400px; height: auto&#34;&gt;
+  &lt;img src=&#34;https://myapunov.com/img/2025/animation3D_cool.gif&#34; alt=&#34;&#34; style=&#34;width: 400px; height: auto&#34;&gt;
 &lt;/figure&gt;
 &lt;p&gt;Article available &lt;a href=&#34;https://doi.org/10.1016/j.automatica.2025.112221&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Code available &lt;a href=&#34;https://github.com/tjards/multi-agent_sim&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Robots, Chaos, and Dune: Reflections on Unpredictability</title>
-      <link>http://localhost:1313/posts/2025/robots-chaos-dune/</link>
+      <link>https://myapunov.com/posts/2025/robots-chaos-dune/</link>
       <pubDate>Sun, 02 Feb 2025 16:15:45 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2025/robots-chaos-dune/</guid>
+      <guid>https://myapunov.com/posts/2025/robots-chaos-dune/</guid>
       <description>&lt;p&gt;&lt;em&gt;My thoughts on how a meteorology paper published in 1963 explains the difference between two giants of science fiction, with some personal reflections on how they each influence my own work.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;My research &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1002/acs.2882&#34;&gt;began&lt;/a&gt; in the narrow field of reinforcement learning applied to constrained, optimal control. Solutions were well-structured, precise, and mathematically rigorous. This fit neatly into a deterministic view of the world - if I defined everything correctly and did the math, things would work out well.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Co-doc: A Custom GPT Research Assistant</title>
-      <link>http://localhost:1313/posts/2024/custom_gpt/</link>
+      <link>https://myapunov.com/posts/2024/custom_gpt/</link>
       <pubDate>Wed, 25 Dec 2024 18:43:18 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2024/custom_gpt/</guid>
+      <guid>https://myapunov.com/posts/2024/custom_gpt/</guid>
       <description>&lt;h2 id=&#34;key-points&#34;&gt;Key Points&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Built a custom ChatGPT to assist me with my research.&lt;/li&gt;
@@ -115,12 +115,12 @@
     </item>
     <item>
       <title>A Survey of Potential Functions for Multi-agent Systems</title>
-      <link>http://localhost:1313/posts/2024/survey_pfun/</link>
+      <link>https://myapunov.com/posts/2024/survey_pfun/</link>
       <pubDate>Sun, 24 Nov 2024 14:47:03 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2024/survey_pfun/</guid>
+      <guid>https://myapunov.com/posts/2024/survey_pfun/</guid>
       <description>&lt;p&gt;I recently conducted a &lt;a href=&#34;https://github.com/tjards/survey_potential_functions&#34;&gt;minor survey&lt;/a&gt; on potential functions in the context of multi-agent systems. Collective potential functions are a common way to produce desired separation between agents in a swarm. Fig. 1 provides an illustration of one such scenario.&lt;/p&gt;
 &lt;figure&gt;
-  &lt;img src=&#34;http://localhost:1313/img/2024/animation2D_pinning4.gif&#34; alt=&#34;&#34; style=&#34;width: 400px; height: auto&#34;&gt;
+  &lt;img src=&#34;https://myapunov.com/img/2024/animation2D_pinning4.gif&#34; alt=&#34;&#34; style=&#34;width: 400px; height: auto&#34;&gt;
   &lt;figcaption&gt;Fig. 1: Illustration of potential functions in action.&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Note that the agents maintain some common distance between eachother, except when navigating around the obstacles in yellow.&lt;/p&gt;
@@ -129,18 +129,18 @@
     </item>
     <item>
       <title>New publication: Emergent Structure in Multi-agent Systems Using Geometric Embeddings</title>
-      <link>http://localhost:1313/posts/2024/geometric_embeddings/</link>
+      <link>https://myapunov.com/posts/2024/geometric_embeddings/</link>
       <pubDate>Mon, 21 Oct 2024 20:08:52 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2024/geometric_embeddings/</guid>
+      <guid>https://myapunov.com/posts/2024/geometric_embeddings/</guid>
       <description>&lt;p&gt;One of our grad students (Dimitria) recently presented findings at the &lt;a href=&#34;https://2024.ieeeisse.org/&#34;&gt;2024 IEEE International Symposium on Systems Engineering (ISSE)&lt;/a&gt; in Perugia, Italy. This new work builds off some of our earlier investigations into &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9931405&#34;&gt;emergent leminscate traectories&lt;/a&gt; by providing a more general solution, applicable to a wide range of closed-curve trajectories.&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;This work investigates the self-organization of multi-agent systems into closed trajectories, a common requirement in unmanned aerial vehicle (UAV) surveillance tasks. In such scenarios, smooth, unbiased control signals save energy and mitigate mechanical strain. We propose a decentralized control system architecture that produces a globally stable emergent structure from local observations only; there is no requirement for agents to share a global plan or follow prescribed trajectories. Central to our approach is the formulation of an injective virtual embedding induced by rotations from the actual agent positions. This embedding serves as a structure-preserving map around which all agent stabilize their relative positions and permits the use of well-established linear control techniques. We construct the embedding such that it is topologically equivalent to the desired trajectory (i.e., a homeomorphism), thereby preserving the stability characteristics. We demonstrate the versatility of this approach through implementation on a swarm of Quanser QDrone quadcopters. Results demonstrate the quadcopters self-organize into the desired trajectory while maintaining even separation.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>New publication: Flocks, Mobs, and Figure Eights - Swarming as a Lemniscatic Arch</title>
-      <link>http://localhost:1313/posts/2022/lemniscates/</link>
+      <link>https://myapunov.com/posts/2022/lemniscates/</link>
       <pubDate>Fri, 28 Oct 2022 20:08:52 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2022/lemniscates/</guid>
+      <guid>https://myapunov.com/posts/2022/lemniscates/</guid>
       <description>&lt;p&gt;I have finally checked off the career milestone of publishing in an IEEE &lt;em&gt;Transactions&lt;/em&gt; journal. I was inspired to develop this solution after watching a flock of birds attack a squirrel on my neighbour&amp;rsquo;s roof. I noticed the birds produced a modified figure-eight pattern, which allowed them to dive down and attack the squirrel one-after-the-other in a coordinated manner.&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Inspired by the natural mobbing behavior of birds, this work presents a novel, quasi-distributed swarming strategy called the Dynamic Lemniscatic Arch. It resolves the problem of producing globally-stable, evenly-spaced lemniscate (or, figure-eight) trajectories while relying on local interactions only. Such trajectories are advantageous in applications where energy consumption and mechanical strain must be minimized. Previous work in lemniscate curves has typically relied on predetermined trajectories, rather than on the emergent structure of the swarm. Furthermore, we enrich the traditional 2-dimensional lemniscate plane curve structure by forming an arch in the third dimension. This arch provides more consistent coverage in surveillance type tasks and, with minor variations in parameters, can be used to produce mobbing behavior. The technique relies on time-varying quaternion rotations linked to the positions of dynamically induced virtual agents. We provide a mathematical proof of stability, which demonstrates the swarm converges to the desired geometry. Simulations show that the strategy performs well with multiple agents and in numerous different configurations.&lt;/em&gt;&lt;/p&gt;</description>

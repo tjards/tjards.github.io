@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Project on thoughts on my mind</title>
-    <link>http://localhost:1313/categories/project/</link>
+    <link>https://myapunov.com/categories/project/</link>
     <description>Recent content in Project on thoughts on my mind</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 May 2025 07:04:13 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://myapunov.com/categories/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Multi-agent Coordination Simulator</title>
-      <link>http://localhost:1313/posts/2025/m-a_s/</link>
+      <link>https://myapunov.com/posts/2025/m-a_s/</link>
       <pubDate>Sun, 04 May 2025 07:04:13 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025/m-a_s/</guid>
+      <guid>https://myapunov.com/posts/2025/m-a_s/</guid>
       <description>&lt;div style=&#34;display: flex; align-items: flex-start; gap: 1.5rem; margin: 1rem 0;&#34;&gt;
   &lt;!-- Left column --&gt;
   &lt;div style=&#34;flex: 0 0 25%;&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/img/2025/m-a_s/m-a_s.png&#34; style=&#34;width: 100%; height: auto; border-radius: 4px;&#34; /&gt;
+    &lt;img src=&#34;https://myapunov.com/img/2025/m-a_s/m-a_s.png&#34; style=&#34;width: 100%; height: auto; border-radius: 4px;&#34; /&gt;
   &lt;/div&gt;
   &lt;!-- Right column --&gt;
   &lt;div style=&#34;flex: 1;&#34;&gt;
@@ -29,11 +29,11 @@
     </item>
     <item>
       <title>ContactsnApp: Extract and Annotate Phone Numbers from Images Using AI Models</title>
-      <link>http://localhost:1313/posts/2025/contactsnapp/</link>
+      <link>https://myapunov.com/posts/2025/contactsnapp/</link>
       <pubDate>Sun, 27 Apr 2025 18:04:13 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025/contactsnapp/</guid>
+      <guid>https://myapunov.com/posts/2025/contactsnapp/</guid>
       <description>&lt;p float=&#34;right&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/img/2025/contactsnapp/CsnApp.jpeg&#34; width=&#34;25%&#34; style=&#34;float: left; margin: 0 1em 0 0;&#34;/&gt;
+  &lt;img src=&#34;https://myapunov.com/img/2025/contactsnapp/CsnApp.jpeg&#34; width=&#34;25%&#34; style=&#34;float: left; margin: 0 1em 0 0;&#34;/&gt;
 &lt;/p&gt;
 &lt;p&gt;Building on my earlier exploration of &lt;a href=&#34;https://tjards.github.io/posts/2024/custom_gpt/&#34;&gt;custom ChatGPTs&lt;/a&gt;, I tried building an AI app from scratch, primarily using vibe coding supported by &lt;a href=&#34;https://code.visualstudio.com/docs/copilot/overview&#34;&gt;GitHub Copilot in VSCode&lt;/a&gt;. Inspired by a recent Airbnb experience, I developed &lt;a href=&#34;https://github.com/tjards/ContactsnApp&#34;&gt;ContactsnApp&lt;/a&gt;: a user-friendly application designed to streamline the extraction and annotation of phone numbers from images using AI models.&lt;/p&gt;
 &lt;h2 id=&#34;comments-from-the-co-author&#34;&gt;Comments from the Co-author&lt;/h2&gt;
@@ -41,9 +41,9 @@
     </item>
     <item>
       <title>Co-doc: A Custom GPT Research Assistant</title>
-      <link>http://localhost:1313/posts/2024/custom_gpt/</link>
+      <link>https://myapunov.com/posts/2024/custom_gpt/</link>
       <pubDate>Wed, 25 Dec 2024 18:43:18 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2024/custom_gpt/</guid>
+      <guid>https://myapunov.com/posts/2024/custom_gpt/</guid>
       <description>&lt;h2 id=&#34;key-points&#34;&gt;Key Points&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Built a custom ChatGPT to assist me with my research.&lt;/li&gt;
