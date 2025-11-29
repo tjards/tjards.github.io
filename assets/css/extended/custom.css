@@ -9,11 +9,11 @@
 .home-info::before {
   content: "";
   position: absolute;
-  top: 33%;
-  left: 60%;
-  width: 400px;          /* adjust to taste */
-  height: 400px;         /* adjust to taste */
-  transform: translate(-50%, -50%);
+  top: 0%;
+  left: 0%;
+  width: 170%;          /* adjust to taste */
+  height: 170%;         /* adjust to taste */
+  /*transform: translate(-50%, -50%);*/
   background-image: url("/img/favicon16x16.png");
   background-size: contain;
   background-repeat: no-repeat;
@@ -32,6 +32,10 @@
   color: #777777;
 }
 
+
+.home-info .social-icons {
+  margin-top: 2rem; /* adjust as needed */
+}
 
 
 /* ------------------------------
