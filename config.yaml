@@ -1,7 +1,7 @@
 baseURL: "https://myapunov.com/"
 #baseURL: "https://tjards.github.io/"
 languageCode: en-us
-title: research notes
+title: thoughts on my mind
 theme: PaperMod
 
 taxonomies:
@@ -60,8 +60,8 @@ minify:
 params:
 
   homeInfoParams:
-    Title: research notes
-    Content: thoughts on robotics, control, and artificial intelligence
+    Title: thoughts on my mind
+    Content: mostly robotics, control, and artificial intelligence
 
   assets:
     #css:

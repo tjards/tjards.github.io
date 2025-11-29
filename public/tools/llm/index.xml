@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>LLM on research notes</title>
+    <title>LLM on thoughts on my mind</title>
     <link>http://localhost:1313/tools/llm/</link>
-    <description>Recent content in LLM on research notes</description>
+    <description>Recent content in LLM on thoughts on my mind</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Dec 2024 18:43:18 -0500</lastBuildDate>
