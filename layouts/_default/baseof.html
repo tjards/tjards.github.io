@@ -1,3 +1,5 @@
+
+<!--
 {{- if lt hugo.Version "0.125.7" }}
 {{- errorf "=> hugo v0.125.7 or greater is required for hugo-PaperMod to build " }}
 {{- end -}}
@@ -22,6 +24,48 @@
     {{- partialCached "header.html" . .Page -}}
         <main class="main">
             {{- block "main" . }}{{ end }}
+        </main>
+    {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}} 
+</body>
+</html>
+-->
+
+{{- if lt hugo.Version "0.125.7" }}
+{{- errorf "=> hugo v0.125.7 or greater is required for hugo-PaperMod to build " }}
+{{- end -}}
+
+<!DOCTYPE html>
+<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}">
+
+<head>
+    {{- partial "head.html" . }}
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body class="
+{{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) -}}
+{{- print "list" -}}
+{{- end -}}
+{{- if eq site.Params.defaultTheme `dark` -}}
+{{- print " dark" }}
+{{- end -}}
+" id="top">
+    {{- partialCached "header.html" . .Page -}}
+        <main class="main">
+            <div class="content-with-sidebar">
+
+                <!-- main content area -->
+                <div class="content-main">
+                    {{- block "main" . }}{{ end }}
+                </div>
+
+                <!-- right sidebar with recent posts -->
+                <aside class="sidebar-recent">
+                    {{ partial "recent-sidebar.html" . }}
+                </aside>
+
+            </div>
         </main>
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}} 
 </body>

@@ -29,7 +29,7 @@
   font-weight: bold;
   margin: 10rem 0 2rem 0;   /* top | right | bottom | left */
   text-align: left;
-  color: #777777;
+  color: #000000;
 }
 
 
@@ -173,6 +173,117 @@
 .tool-badge:hover {
   background-color: #cfe0c1;
 }
+
+/* ------------------------------
+Recent Sidebars 
+------------------------------- */
+/* Layout: main content + right sidebar */
+.content-with-sidebar {
+  display: flex;
+  gap: 2rem;
+}
+
+/* Main content grows, sidebar stays narrow */
+.content-main {
+  flex: 1 1 auto;
+}
+
+/* Right sidebar column */
+.sidebar-recent {
+  flex: 0 0 120px;      /* width of the sidebar */
+  font-size: 0.9rem;
+  /*align-self: center;*/
+  margin-top: 6rem;  /* adjust up/down as needed */
+}
+
+/* Sidebar inner styling 
+.sidebar-recent-inner {
+  border-left: 1px solid #e7e7e7;
+  padding-left: 1.5rem;
+}
+*/
+
+.sidebar-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+  color: #000000;
+}
+
+/* Individual post entry */
+.sidebar-post {
+  margin-bottom: 1rem;
+}
+
+.sidebar-post-title {
+  display: block;
+  font-weight: 500;
+  color: #000000;
+  text-decoration: none;
+}
+
+.sidebar-post-title:hover {
+  text-decoration: underline;
+}
+
+.sidebar-post-meta {
+  font-size: 0.8rem;
+  color: #777;
+  margin-top: 0.15rem;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+}
+
+.sidebar-post-separator {
+  opacity: 0.6;
+}
+
+/* Responsive: stack sidebar under content on small screens */
+@media (max-width: 800px) {
+  .content-with-sidebar {
+    flex-direction: column;
+  }
+
+  .sidebar-recent {
+    flex: 1 1 auto;
+  }
+
+  .sidebar-recent-inner {
+    border-left: none;
+    border-top: 1px solid #e7e7e7;
+    padding-left: 0;
+    padding-top: 1rem;
+    margin-top: 1rem;
+  }
+  
+}
+
+/* Category bubble for sidebar posts */
+.sidebar-post-category {
+  margin: 0.1rem 0 0.1rem 0;
+}
+.category-pill {
+  display: inline-block;
+  padding: 2px 7px;
+  font-size: 0.5rem;
+  font-weight: 200;
+  background-color: #eaeaea;
+  color: #333;
+  border-radius: 999px;
+  text-transform: lowercase;
+  letter-spacing: 0.02em;
+}
+
+
+
+/*.category-pill:hover {
+  background-color: #007acc;
+  color: #fff;
+  cursor: pointer;
+}*/
+
 
 
 
