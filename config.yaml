@@ -43,10 +43,10 @@ menu:
       name: projects
       url: /projects/
       weight: 15
-    - identifier: personal
-      name: /annex
-      url: /categories/personal/
-      weight: 20  
+    #- identifier: personal
+    #  name: /annex
+    #  url: /categories/personal/
+    #  weight: 20  
 
 enableRobotsTXT: true
 buildDrafts: false
