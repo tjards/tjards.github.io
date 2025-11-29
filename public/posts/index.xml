@@ -6,8 +6,17 @@
     <description>Recent content in Posts on research notes</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Nov 2025 16:02:59 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 19:42:39 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2025/ivoryworks/</link>
+      <pubDate>Fri, 28 Nov 2025 19:42:39 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/ivoryworks/</guid>
+      <description>&lt;p style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/img/2025/ivoryworks/ivoryworks_no_loop.gif&#34; width=&#34;600px&#34; /&gt;
+&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Density of Honey</title>
       <link>http://localhost:1313/posts/2025/density_of_honey/</link>
