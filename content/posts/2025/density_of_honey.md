@@ -2,7 +2,7 @@
 date: '2025-11-23T16:02:59-05:00'
 draft: false
 title: 'The Density of Honey'
-tags: []
+tags: ['featured']
 categories: ['personal']
 ShowToc: false
 ---
