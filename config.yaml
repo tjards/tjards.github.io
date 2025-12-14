@@ -61,7 +61,7 @@ params:
 
   homeInfoParams:
     Title: research notes
-    Content: thoughts on robotics, control, and artificial intelligence
+    Content: thoughts on control, artificial intelligence, and other things
 
   assets:
     #css:
