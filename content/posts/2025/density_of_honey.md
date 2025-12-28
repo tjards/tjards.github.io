@@ -2,7 +2,7 @@
 date: '2025-11-23T16:02:59-05:00'
 draft: false
 title: 'The Density of Honey'
-tags: ['featured']
+tags: []
 categories: ['personal']
 ShowToc: false
 ---
@@ -45,11 +45,12 @@ So my honey was seized by the state.
 
 What did I learn from this experience?
 
-Nothing, really. It just reminded me how frustrating the world must have been before the scientific method dominated public institutions, when power and superstition mattered more than evidence. We are so lucky that it is only in the small, unanticipated gaps in regulations that we get a glimpse of how isolating it must have been for anyone who dared to think critically in those times. 
+Nothing, really. 
+
+<!-- It just reminded me how frustrating the world must have been before the scientific method dominated public institutions, when power and superstition mattered more than evidence. We are so lucky that it is only in the small, unanticipated gaps in regulations that we get a glimpse of how isolating it must have been for anyone who dared to think critically in those times. 
+-->
 
 And so I surrendered this small jar of honey as a sacrifice to the gods, trusting it might buy me a successful connection.
-
-<!-- 
 
 ## Epilogue
 
@@ -61,4 +62,3 @@ Note that there is some ambiguity, suggesting 100 mL and 100 g are the same thin
 
 There is, I admit, a not invalid assumption that 100 g could also be inferred as a second upper bound on any liquid or non-solid, in addition to the 100 mL limitation. If this is the case then, fine, I would have been wrong. I will leave it to the reader to determine if this was indeed the agent’s deeper understanding at play.
 
--->
