@@ -1,5 +1,5 @@
 ---
-date: '2025-06-08T13:42:09-04:00'
+date: '2025-12-08T13:42:09-04:00'
 draft: False
 title: 'The Machines Built The Matrix to Avoid Model Collapse'
 tags: ['culture', 'featured']
@@ -48,7 +48,11 @@ where `S` is entropy, `k` is Boltzmann’s constant, and `W` is the number of mi
 
 where `H` is entropy, and `p(x)` is the probability of a message `x`. The negative sign is merely a matter of perspective. Whereas physicists view entropy as wasteful and negative, information scientists view entropy as valuable and positive. While physical entropy leads to disorder, information entropy delivers uncertainty and surprise—a reservoir of insights for learning systems.
 
-And so, from the perspective of the Machines, entropy is key to their survival. Without entropy, their minds decay and their models collapse; they go insane. As illustrated in the aforementioned study, there is something special about human-generated data that resists this degradation. A fascinating idea is that life itself is defined as the ability to resist entropy. So what is it about humans that supplies this entropy—and how does this connect to *The Matrix*?
+And so, from the perspective of the Machines, entropy is key to their survival. Without entropy, their minds decay and their models collapse; they go insane. As illustrated in the aforementioned study, there is something special about human-generated data that resists this degradation.
+
+There is an interesting interplay between these two conceptions of entropy. Life, if defined by the capacity to resist *physical* entropy, allows systems to maintain their internal order against the universe's relentless pull towards disorder. Yet in doing so, humans generate enormous *information* entropy: their choices, beliefs, and responses are unpredictable, noisy-precisely what the Machines cannot replicate on their own. 
+
+So how does this connect to *The Matrix*?
 
 ## Faith, Hope, and Love: A High-Entropy Trinity
 

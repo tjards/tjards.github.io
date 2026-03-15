@@ -6,8 +6,17 @@
     <description>Recent content in Research on research notes</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Sep 2025 17:18:41 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 13:31:41 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emergent Manifolds in Swarms: Hidden Spaces for Robots to Coordinate</title>
+      <link>http://localhost:1313/posts/2026/rl_embeddings/</link>
+      <pubDate>Sun, 15 Mar 2026 13:31:41 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2026/rl_embeddings/</guid>
+      <description>&lt;p&gt;In &lt;a href=&#34;https://doi.org/10.1016/j.automatica.2025.112221&#34;&gt;recent work&lt;/a&gt;, we showed that stable formations can emerge through negotiation in a lower-dimensional latent space (which we called geometric &lt;em&gt;embeddings&lt;/em&gt;). Appropriately constructed embeddings yield globally stable equilibria based solely on local observations and decisions. We extend this work by applying learning techniques to optimize the geometry of the swarm along the resultant equilibrium manifold.&lt;/p&gt;
+&lt;p&gt;We extend previous work by applying reinforcement learning (RL) to control the orientation of the swarm. In a proof-of-concept, we implem
+this idea using &lt;a href=&#34;https://doi.org/10.1007/978-3-540-39737-3_119&#34;&gt;Continuous Action Learning Automata&lt;/a&gt; to learn the optimal orientation (azimuth and altitude angle) of the embedding plane. In this implementation, collective learning is coordinated by a randomly-selected leader agent.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Future of AI is in Lower Dimensions</title>
       <link>http://localhost:1313/posts/2025/hypospace_learn/</link>

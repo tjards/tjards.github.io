@@ -6,34 +6,24 @@
     <description>Recent content in Featured on research notes</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jun 2025 13:42:09 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 13:31:41 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/featured/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emergent Manifolds in Swarms: Hidden Spaces for Robots to Coordinate</title>
+      <link>http://localhost:1313/posts/2026/rl_embeddings/</link>
+      <pubDate>Sun, 15 Mar 2026 13:31:41 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2026/rl_embeddings/</guid>
+      <description>&lt;p&gt;In &lt;a href=&#34;https://doi.org/10.1016/j.automatica.2025.112221&#34;&gt;recent work&lt;/a&gt;, we showed that stable formations can emerge through negotiation in a lower-dimensional latent space (which we called geometric &lt;em&gt;embeddings&lt;/em&gt;). Appropriately constructed embeddings yield globally stable equilibria based solely on local observations and decisions. We extend this work by applying learning techniques to optimize the geometry of the swarm along the resultant equilibrium manifold.&lt;/p&gt;
+&lt;p&gt;We extend previous work by applying reinforcement learning (RL) to control the orientation of the swarm. In a proof-of-concept, we implem
+this idea using &lt;a href=&#34;https://doi.org/10.1007/978-3-540-39737-3_119&#34;&gt;Continuous Action Learning Automata&lt;/a&gt; to learn the optimal orientation (azimuth and altitude angle) of the embedding plane. In this implementation, collective learning is coordinated by a randomly-selected leader agent.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Machines Built The Matrix to Avoid Model Collapse</title>
       <link>http://localhost:1313/posts/2025/matrix_entropy/</link>
-      <pubDate>Sun, 08 Jun 2025 13:42:09 -0400</pubDate>
+      <pubDate>Sun, 08 Mar 2026 13:42:09 -0400</pubDate>
       <guid>http://localhost:1313/posts/2025/matrix_entropy/</guid>
       <description>&lt;p&gt;&lt;em&gt;A new theory for why the Machines kept humans alive in&lt;/em&gt; The Matrix &lt;em&gt;—inspired by recent discoveries in scaling large language models.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;One measure of a film’s quality is the diversity of fan theories it inspires. When a story has the right blend of depth, ambiguity, and cultural timing, the entertainment value extends past the credits—it compels audiences to dissect and reinterpret decades later. &lt;em&gt;The Matrix&lt;/em&gt; is a great example of this: 25 years on, people are still following the white rabbit down Reddit threads. A quick internet search reveals a &lt;a href=&#34;https://screenrant.com/matrix-movies-franchise-fan-theories-hope-true/&#34;&gt;myriad of fan theories&lt;/a&gt; about the true nature of its characters and storylines. &lt;a href=&#34;https://www.ranker.com/list/matrix-fan-theories/nathan-gibson&#34;&gt;One&lt;/a&gt; even claims &lt;em&gt;John Wick&lt;/em&gt; is actually a sequel to &lt;em&gt;The Matrix&lt;/em&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Multi-agent Coordination Simulator</title>
-      <link>http://localhost:1313/posts/2025/m-a_s/</link>
-      <pubDate>Sun, 04 May 2025 07:04:13 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2025/m-a_s/</guid>
-      <description>&lt;div style=&#34;display: flex; align-items: flex-start; gap: 1.5rem; margin: 1rem 0;&#34;&gt;
-  &lt;!-- Left column --&gt;
-  &lt;div style=&#34;flex: 0 0 25%;&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/img/2025/m-a_s/m-a_s.png&#34; style=&#34;width: 100%; height: auto; border-radius: 4px;&#34; /&gt;
-  &lt;/div&gt;
-  &lt;!-- Right column --&gt;
-  &lt;div style=&#34;flex: 1;&#34;&gt;
-    &lt;p&gt;
-      A fully open architecture implementation of modern multi-agent coordination techniques. All agents make individual decisions based on local information only. There is no global plan.
-    &lt;/p&gt;
-    &lt;p&gt;
-    This is an open project I use to explore new ideas, validate theoretical results, and produce data for my academic research. 
-    &lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
