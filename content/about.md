@@ -23,4 +23,4 @@ I am currently supervising graduate students at the Master's and PhD levels and 
 
 This website was built with [Hugo](https://gohugo.io/) using the [Papermod](https://github.com/adityatelange/hugo-PaperMod) theme. The source code can be found on my [GitHub](https://github.com/tjards/tjards.github.io).
 
-The domain name *myapunov* is a reference to Lyapunov stability, a fundamental concept in control systems theory. 
+The domain name **r4lux** is a Star Trek reference. THERE ARE FOUR LIGHTS! 
