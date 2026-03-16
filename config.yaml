@@ -1,5 +1,6 @@
-baseURL: "https://myapunov.com/"
+#baseURL: "https://myapunov.com/"
 #baseURL: "https://tjards.github.io/"
+baseURL: "https://r4lux.com/"
 languageCode: en-us
 title: research notes
 theme: PaperMod
