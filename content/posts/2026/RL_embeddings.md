@@ -2,7 +2,7 @@
 date: '2026-03-15T13:31:41-04:00'
 draft: false
 title: 'Emergent Manifolds in Swarms: Hidden Spaces for Robots to Coordinate'
-tags: ["featured"]
+tags: []
 categories: ["research"]
 ShowToc: false
 ---
