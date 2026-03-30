@@ -3,6 +3,7 @@ title: "The Great Canadian Hairy Star Party: Restoring a Science Project from 19
 date: 2026-03-29
 draft: false
 tags: ["featured"]
+categories: ["project"]
 ShowToc: false
 ---
 
@@ -19,6 +20,7 @@ The servers hosting the original content were decommissioned in the early 2000s,
 
 - The project is mentioned on the [CM Bulletin Board](https://www.cmreviews.ca/cm/vol3/no14/bb14.html), *Volume III, Number 14 — March 14, 1997*.  
 - Some partial snapshots can be found on the [Wayback Machine](https://web.archive.org/), but you need to know the exact URLs to find them, and some elements are either missing or corrupted. 
+- The school launched a similar initiative for Comet Hale-Bopp in 1997 for which some of the content is still available on the [here](https://web.archive.org/web/19990210164909/http://www.scienceweb.org/astro/comet/halebopp/teach/cstudents.html) (with lots of broken links).
 
 I recently successfully recovered the page and have hosted it at the link above for posterity. It is a nostalgic glimpse into the early days of the web, before the era of big social media and large language models, when the internet was a more personal and creative space for individuals to share their passions and projects.
 
@@ -29,7 +31,7 @@ I attempted to preserve the original page as faithfully as possible. Here's the 
 - I started with an old box of hard drives and USB sticks in my basement, vaguely recalling I had a copy of the original files somewhere. After some digging, I found an old hard drive labeled *“Travis very old Toshiba HD”*. I connected it to my computer using a SATA-to-USB adapter like this:
 
 ![Figure 1](/img/2026/sata.jpeg)  
-**Figure 1.** This did not work.
+**Figure 1.** This didn't work.
 
 ### corrupted drive 
 - It didn’t work on my MacBook. Elena patiently allowed me to try on her Windows machines—no luck. I tried a few different adapters and cables, but the drive was not recognized by any of the machines. 

@@ -6,16 +6,33 @@
     <description>Recent content in Featured on research notes</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Mar 2026 13:31:41 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/featured/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Emergent Manifolds in Swarms: Hidden Spaces for Robots to Coordinate</title>
-      <link>http://localhost:1313/posts/2026/rl_embeddings/</link>
-      <pubDate>Sun, 15 Mar 2026 13:31:41 -0400</pubDate>
-      <guid>http://localhost:1313/posts/2026/rl_embeddings/</guid>
-      <description>&lt;p&gt;In &lt;a href=&#34;https://doi.org/10.1016/j.automatica.2025.112221&#34;&gt;recent work&lt;/a&gt;, we showed that stable formations can emerge through negotiation in a lower-dimensional latent space (which we called geometric &lt;em&gt;embeddings&lt;/em&gt;). Appropriately constructed embeddings yield globally stable equilibria based solely on local observations and decisions. We extend this work by applying learning techniques to optimize the geometry of the swarm along the resultant equilibrium manifold.&lt;/p&gt;
-&lt;p&gt;We extend previous work by applying reinforcement learning (RL) to control the orientation of the swarm. In a proof-of-concept, we implem
-this idea using &lt;a href=&#34;https://doi.org/10.1007/978-3-540-39737-3_119&#34;&gt;Continuous Action Learning Automata&lt;/a&gt; to learn the optimal orientation (azimuth and altitude angle) of the embedding plane. In this implementation, collective learning is coordinated by a randomly-selected leader agent.&lt;/p&gt;</description>
+      <title>The Great Canadian Hairy Star Party: Restoring a Science Project from 1996</title>
+      <link>http://localhost:1313/posts/2026/recovered-scienceweb/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2026/recovered-scienceweb/</guid>
+      <description>&lt;div style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://localhost:1313/recovered/scienceweb/ccs73.html&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/2026/west.gif&#34; width=&#34;120&#34; style=&#34;margin: auto;&#34;&gt;click for time travel&lt;/a&gt;&lt;/div&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;The Great Canadian Hairy Star Party&lt;/em&gt; was an educational initiative produced by &lt;em&gt;ScienceWeb&lt;/em&gt; in 1996. It featured observations, sketches, and other artwork from students across Canada related to Comet Hyakutake, a spectacular comet that passed close to Earth in March of that year. Centre Consolidated Elementary School in Lunenburg, Nova Scotia participated by having students submit their personal observations on a dedicated website.&lt;/p&gt;
+&lt;p&gt;I was one of those students.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Adver-City ML Workflow</title>
+      <link>http://localhost:1313/posts/2026/advercityml/</link>
+      <pubDate>Mon, 23 Mar 2026 09:15:13 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2026/advercityml/</guid>
+      <description>&lt;p&gt;This project implements a &lt;strong&gt;Machine Learning (ML) pipeline&lt;/strong&gt; for the &lt;a href=&#34;https://labs.cs.queensu.ca/quarrg/datasets/adver-city/&#34;&gt;Adver-City&lt;/a&gt; synthetic dataset. The dataset is designed for investigating &lt;strong&gt;cooperative perception&lt;/strong&gt; in autonomous vehicles. Overall, this project enables efficient, reproducible modelling of the Adver-City dataset through ML workflows. We have chosen to train a model to identify weather conditions (clear, fog, rain) from nighttime images.&lt;/p&gt;
+&lt;p&gt;Note: full GitRepo available &lt;a href=&#34;https://github.com/tjards/adver-city-ETL&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;http://localhost:1313/img/2026/example_view.gif&#34; alt=&#34;Example Scenario (foggy)&#34; width=&#34;800&#34; style=&#34;border: 1px solid #ddd; border-radius: 8px; padding: 8px; background-color: #f9f9f9;&#34;&gt;
+  &lt;figcaption style=&#34;text-align: center; margin-top: 12px; font-style: italic; color: #666;&#34;&gt;
+    &lt;strong&gt;Figure 1:&lt;/strong&gt; Example Scenario (foggy) from the Adver-City dataset. The dataset contains images of a variety of weather conditions (clear, fog, rain) and times of day (day, night). In this project we focus on classifying weather conditions from nighttime images.
+  &lt;/figcaption&gt;
+&lt;/figure&gt; 
+&lt;h2 id=&#34;operation&#34;&gt;Operation&lt;/h2&gt;
+&lt;p&gt;The project is organized into four main stages. Depending on what your goal is (data exploration, ingestion, or training), the notebooks indicated below describe how to run each stage of the workflow.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Machines Built The Matrix to Avoid Model Collapse</title>
