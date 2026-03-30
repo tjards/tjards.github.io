@@ -22,13 +22,13 @@ Note: full GitRepo available [here](https://github.com/tjards/adver-city-ETL).
 
 The project is organized into four main stages. Depending on what your goal is (data exploration, ingestion, or training), the notebooks indicated below describe how to run each stage of the workflow.
 
-1. **Initial Data Exploration:** A detailed [readme](./docs/README_ETL.md) has been provided to describe the Extract, Transform, and Load (ETL) process. This is complemented by a [notebook](./notebooks/initial_explore.ipynb) that walks through an exploration of the dataset.
+1. **Initial Data Exploration:** A detailed [readme](https://github.com/tjards/adver-city-ETL) has been provided to describe the Extract, Transform, and Load (ETL) process. This is complemented by a [notebook](https://github.com/tjards/adver-city-ETL/tree/master/notebooks) that walks through an exploration of the dataset.
 
-2. **Data Ingestion Pipeline:** The pipeline selectively ingests data from the [FRDR remote server](https://www.frdr-dfdr.ca/repo/dataset/3bda7692-779f-4cbd-b806-b8aa69d5dff9), extracts files based on a sampling plan, creates labels, and generates clean train/val/test splits. A detailed [notebook](./notebooks/data_ingestion_pipeline.ipynb) describes the data ingestion pipeline, including how data is ingested, sampled, and prepared for training.
+2. **Data Ingestion Pipeline:** The pipeline selectively ingests data from the [FRDR remote server](https://www.frdr-dfdr.ca/repo/dataset/3bda7692-779f-4cbd-b806-b8aa69d5dff9), extracts files based on a sampling plan, creates labels, and generates clean train/val/test splits. A detailed [notebook](https://github.com/tjards/adver-city-ETL/tree/master/notebooks) describes the data ingestion pipeline, including how data is ingested, sampled, and prepared for training.
 
-3. **Data Management Pipeline:** A detailed [notebook](./notebooks/data_management_pipeline.ipynb) describes the data management pipeline, including how the data is cleaned and transformed. A custom Dataset class is defined for use with PyTorch DataLoader. Some Preprocessing (resizing, normalization, and augmentation) is applied to the data.
+3. **Data Management Pipeline:** A detailed [notebook](https://github.com/tjards/adver-city-ETL/tree/master/notebooks) describes the data management pipeline, including how the data is cleaned and transformed. A custom Dataset class is defined for use with PyTorch DataLoader. Some Preprocessing (resizing, normalization, and augmentation) is applied to the data.
 
-4. **Training and Testing Pipeline:** A detailed [notebook](./notebooks/training_pipeline.ipynb) describes the training and testing pipeline, including how to train a model, save checkpoints, and evaluate performance on a test set.
+4. **Training and Testing Pipeline:** A detailed [notebook](https://github.com/tjards/adver-city-ETL/tree/master/notebooks) describes the training and testing pipeline, including how to train a model, save checkpoints, and evaluate performance on a test set.
 
 ## Project Structure
 
@@ -107,7 +107,7 @@ The model was trained on the **train** set split and validated on the **val** se
 
 ### Testing 
 
-As shown in the [Training and Testing Pipeline notebook](./notebooks/training_pipeline.ipynb), the model above was tested on a separate **test** set split. The accuracy of the model on this split was 96.26%, consistent with the validation performance.
+As shown in the [Training and Testing Pipeline notebook](https://github.com/tjards/adver-city-ETL/tree/master/notebooks), the model above was tested on a separate **test** set split. The accuracy of the model on this split was 96.26%, consistent with the validation performance.
 
 ## Conclusion
 
