@@ -40,10 +40,14 @@ menu:
       name: publications
       url: https://scholar.google.com/citations?user=RGlv4ZUAAAAJ&hl=en
       weight: 30
-    - identifier: projects
-      name: projects
-      url: /projects/
-      weight: 15
+    #- identifier: projects
+    #  name: projects
+    #  url: /projects/
+    #  weight: 15
+    - identifier: fun
+      name: fun
+      url: https://tjards.github.io/web_shepherd/
+      weight: 20
     #- identifier: personal
     #  name: /annex
     #  url: /categories/personal/
