@@ -2,7 +2,7 @@
 #baseURL: "https://tjards.github.io/"
 baseURL: "https://r4lux.com/"
 languageCode: en-us
-title: research notes
+title: tangents
 theme: PaperMod
 
 taxonomies:
@@ -65,8 +65,8 @@ minify:
 params:
 
   homeInfoParams:
-    Title: research notes
-    Content: thoughts on technology, artificial intelligence, and other things
+    Title: tangents
+    Content: on technology, artificial intelligence, and other things
 
   assets:
     #css:

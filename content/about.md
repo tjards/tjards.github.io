@@ -5,15 +5,16 @@ summary: about
 ShowToc: false
 ---
 
-<p float="right">
-  <img src="/img/me2.JPEG" width="20%" style="float: left; margin: 0 1em 0 0;"/>
-</p>
+<div style="display: flex; align-items: flex-start; gap: 2em; margin-bottom: 1.5em;">
+  <img src="/img/me3.JPEG" style="width: 200px; flex-shrink: 0; border-radius: 4px;" />
+  <ul style="margin: 0; padding-left: 1.2em;">
+    <li>I am an adjunct assistant professor at the <a href="https://labs.cs.queensu.ca/quarrg/">School of Computing</a> at Queen's University.</li>
+    <li>My research lies at the intersection of control, learning, and cooperation in robotics.</li>
+    <li>I apply structure to learning processes to ensure stability, reliability, and safety in the physical world.</li>
+    <li>I occasionally publish my work <a href="https://scholar.google.com/citations?hl=en&user=RGlv4ZUAAAAJ&view_op=list_works&sortby=pubdate">here</a>.</li>
+  </ul>
+</div>
 
-I am an Adjunct Assistant Professor with the School of Computing at Queen's University in Canada and early member of the [Autonomous Robotics Research Group](https://labs.cs.queensu.ca/quarrg/).
-
- My [early research](http://hdl.handle.net/1974/24245) investigated the use of reinforcement learning to improve the performance of model predictive control in ground and aerial vehicle applications. My [current work](https://doi.org/10.1016/j.automatica.2025.112221) focuses primarily on learning and control in multi-agent robotics applications. 
-
-A full list of my publications can be found [here](https://scholar.google.com/citations?user=RGlv4ZUAAAAJ&hl=en).
 
 ### student supervision 
 
@@ -21,6 +22,4 @@ I am currently supervising graduate students at the Master's and PhD levels and 
 
 ### this website
 
-This website was built with [Hugo](https://gohugo.io/) using the [Papermod](https://github.com/adityatelange/hugo-PaperMod) theme. The source code can be found on my [GitHub](https://github.com/tjards/tjards.github.io).
-
-The domain name **r4lux** is a Star Trek reference. THERE ARE FOUR LIGHTS! 
+This website was built with [Hugo](https://gohugo.io/) using the [Papermod](https://github.com/adityatelange/hugo-PaperMod) theme. The source code can be found on my [GitHub](https://github.com/tjards/tjards.github.io). The domain name *r4lux* is a Star Trek reference: there are four lights!

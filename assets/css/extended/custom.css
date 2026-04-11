@@ -14,9 +14,11 @@
   width: 150%;          /* adjust to taste */
   height: 150%;         /* adjust to taste */
   /*transform: translate(-50%, -50%);*/
+  /* 
   background-image: url("/img/favicon16x16.png");
   background-size: contain;
   background-repeat: no-repeat;
+  */
   opacity: 0.04;         /* faint watermark */
   z-index: -1;
   pointer-events: none;  /* keep icons clickable */
