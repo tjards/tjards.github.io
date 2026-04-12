@@ -53,6 +53,17 @@
   margin-top: 0rem; /* adjust as needed */
 }
 
+/* Stack about-page photo on top on mobile */
+@media (max-width: 600px) {
+  .about-header {
+    flex-direction: column;
+    align-items: center;
+  }
+  .about-header img {
+    width: 160px !important;
+  }
+}
+
 
 /* ------------------------------
    Menu Links (Sidebar or Floating)
