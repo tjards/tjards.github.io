@@ -137,18 +137,17 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
+    enabled: true # needs to be explicitly set
+    title: P. Travis Jardine
+    subtitle: "thoughts on technology, artificial intelligence, and other things"
+    imageUrl: img/me3.jpeg
+    imageWidth: 140
+    imageHeight: 140
     imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+    #buttons:
+    #  - name: resume
+    #    url: https://www.linkedin.com/in/p-travis-jardine-403b3a148/
+
 
  # analytics:
  #   google:

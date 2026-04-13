@@ -31,7 +31,7 @@
   font-weight: bold;
   margin: 10rem 0 2rem 0;   /* top | right | bottom | left */
   text-align: left;
-  color: #000000;
+  color: var(--primary);
 }
 
 /* Make the article titles smaller inside post cards */
@@ -71,7 +71,7 @@
 .menu-title {
   font-weight: bold;
   margin-bottom: 0.75rem;
-  color: #444;
+  color: var(--secondary);
 }
 
 .menu-links {
@@ -98,12 +98,16 @@
    Footer Styles
 ---------------------------------*/
 .site-footer {
-  background-color: #fcfcfc /*#f8f9fa */;
+  background-color: #f8f9fa;
   padding: 20px;
   text-align: center;
   font-size: 0.9rem;
-  color: #666666;
-  border-top: 1px solid #e7e7e7;
+  color: var(--secondary);
+  border-top: 1px solid var(--border);
+}
+
+.dark .site-footer {
+  background-color: rgb(40, 41, 44);
 }
 
 /* Normal footer links */
@@ -142,11 +146,11 @@
 }
 
 .site-footer .footer-links a {
-  background-color: #eaeaea;
+  background-color: var(--tertiary);
   padding: 0.4rem 0.9rem;
   border-radius: 999px;
   font-size: 0.85rem;
-  color: #333;
+  color: var(--primary);
   text-decoration: none;
   transition: background-color 0.2s ease, color 0.2s ease;
 }
@@ -177,9 +181,13 @@
 ---------------------------------*/
 
 .header {
-  background-color: #fcfcfc; /* light grey/white banner #fcfcfc #f8f9fa */
-  border-bottom: 1px solid #e7e7e7;
+  background-color: #f8f9fa;
+  border-bottom: 1px solid var(--border);
   padding: 1px 0;
+}
+
+.dark .header {
+  background-color: rgb(40, 41, 44);
 }
 
 /* -------------------------------
@@ -234,7 +242,7 @@ Recent Sidebars
   font-size: 1rem;
   font-weight: 600;
   margin-bottom: 0.75rem;
-  color: #000000;
+  color: var(--primary);
 }
 
 /* Individual post entry */
@@ -245,7 +253,7 @@ Recent Sidebars
 .sidebar-post-title {
   display: block;
   font-weight: 500;
-  color: #000000;
+  color: var(--primary);
   text-decoration: none;
 }
 
@@ -255,7 +263,7 @@ Recent Sidebars
 
 .sidebar-post-meta {
   font-size: 0.8rem;
-  color: #777;
+  color: var(--secondary);
   margin-top: 0.15rem;
   display: flex;
   align-items: center;
