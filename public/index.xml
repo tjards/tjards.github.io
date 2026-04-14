@@ -6,8 +6,21 @@
     <description>Recent content on tangents</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 19:15:53 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Shepherd</title>
+      <link>http://localhost:1313/posts/2026/web_shepherd/</link>
+      <pubDate>Tue, 14 Apr 2026 19:15:53 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2026/web_shepherd/</guid>
+      <description>&lt;p&gt;An interactive web app demonstrating shepherding behaviour.&lt;/p&gt;
+&lt;p&gt;Click &lt;a href=&#34;https://tjards.github.io/web_shepherd/&#34;&gt;here&lt;/a&gt; for demo.&lt;/p&gt;
+&lt;p&gt;Click &lt;a href=&#34;https://github.com/tjards/web_shepherd&#34;&gt;here&lt;/a&gt; for code and documentation.&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Implemented using the technique described in:&lt;/p&gt;
+&lt;p&gt;Van Havermaet, S., Simoens, P., Landgraf, T., &amp;amp; Khaluf, Y. (2023). &lt;a href=&#34;https://doi.org/10.1098/rsos.230015&#34;&gt;Steering herds away from dangers in dynamic environments&lt;/a&gt;. &lt;em&gt;Royal Society Open Science&lt;/em&gt;, 10(5), 230015.&lt;/p&gt;
+&lt;p&gt;Interface inspired by the work of &lt;a href=&#34;https://nickfrosst.com/&#34;&gt;Nick Frosst&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Great Canadian Hairy Star Party: Restoring a Science Project from 1996</title>
       <link>http://localhost:1313/posts/2026/recovered-scienceweb/</link>

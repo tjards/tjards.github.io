@@ -40,14 +40,14 @@ menu:
       name: publications
       url: https://scholar.google.com/citations?user=RGlv4ZUAAAAJ&hl=en
       weight: 30
-    #- identifier: projects
-    #  name: projects
-    #  url: /projects/
-    #  weight: 15
-    - identifier: fun
-      name: fun
-      url: https://tjards.github.io/web_shepherd/
-      weight: 20
+    - identifier: projects
+      name: projects
+      url: /projects/
+      weight: 15
+    #- identifier: fun
+    #  name: fun
+    #  url: https://tjards.github.io/web_shepherd/
+    #  weight: 20
     #- identifier: personal
     #  name: /annex
     #  url: /categories/personal/
@@ -65,7 +65,7 @@ minify:
 params:
 
   homeInfoParams:
-    Title: tangents
+    Title: p travis jardine
     Content: on technology, artificial intelligence, and other things
 
   assets:
@@ -138,7 +138,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: P. Travis Jardine
+    title: P Travis Jardine
     subtitle: "thoughts on technology, artificial intelligence, and other things"
     imageUrl: img/me3.jpeg
     imageWidth: 140
