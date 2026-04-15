@@ -1,8 +1,9 @@
 ---
 date: '2026-04-14T19:15:53-04:00'
 draft: false
-title: 'Web Shepherd'
+title: 'Web Shepherd: An Interactive Shepherding App'
 categories: ["project"]
+tags: ["featured"]
 ShowToc: false
 ---
 

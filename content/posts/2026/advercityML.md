@@ -2,7 +2,7 @@
 date: '2026-03-23T09:15:13-04:00'
 title: Adver-City ML Workflow
 draft: false
-tags: ["featured"]
+tags: []
 categories: ["project"]
 ShowToc: true
 ---

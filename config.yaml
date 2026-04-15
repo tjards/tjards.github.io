@@ -65,7 +65,7 @@ minify:
 params:
 
   homeInfoParams:
-    Title: p travis jardine
+    Title: P Travis Jardine
     Content: on technology, artificial intelligence, and other things
 
   assets:
@@ -144,6 +144,10 @@ params:
     imageWidth: 140
     imageHeight: 140
     imageTitle: my image
+    showFeatured: true # show featured posts list below profile card
+    #buttons:
+    #  - name: featured
+    #    url: /tags/featured/ 
     #buttons:
     #  - name: resume
     #    url: https://www.linkedin.com/in/p-travis-jardine-403b3a148/

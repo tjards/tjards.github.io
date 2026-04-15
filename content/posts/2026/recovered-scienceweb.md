@@ -1,5 +1,5 @@
 ---
-title: "The Great Canadian Hairy Star Party: Restoring a Science Project from 1996"
+title: "Restoring a Science Project from 1996"
 date: 2026-03-29
 draft: false
 tags: ["featured"]

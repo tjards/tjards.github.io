@@ -9,7 +9,7 @@
     <lastBuildDate>Tue, 14 Apr 2026 19:15:53 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Web Shepherd</title>
+      <title>Web Shepherd: An Interactive Shepherding App</title>
       <link>http://localhost:1313/posts/2026/web_shepherd/</link>
       <pubDate>Tue, 14 Apr 2026 19:15:53 -0400</pubDate>
       <guid>http://localhost:1313/posts/2026/web_shepherd/</guid>
@@ -22,7 +22,7 @@
 &lt;p&gt;Interface inspired by the work of &lt;a href=&#34;https://nickfrosst.com/&#34;&gt;Nick Frosst&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Great Canadian Hairy Star Party: Restoring a Science Project from 1996</title>
+      <title>Restoring a Science Project from 1996</title>
       <link>http://localhost:1313/posts/2026/recovered-scienceweb/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/2026/recovered-scienceweb/</guid>

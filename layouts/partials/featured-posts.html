@@ -1,11 +1,14 @@
-<!-- <div class="featured-posts">
-    <h2>Featured Posts</h2>
-    <ul>
-      {{ range where .Site.RegularPages "Params.tags" "intersect" (slice "featured") }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-      {{ end }}
-    </ul>
-  </div> -->
-  
-  
-  
+{{- $featured := where .Site.RegularPages "Params.tags" "intersect" (slice "featured") -}}
+{{- if and (site.Params.profileMode.showFeatured) $featured }}
+<div class="featured-section">
+  <p class="featured-label"> featured posts</p>
+  <ul class="featured-list">
+    {{- range sort $featured "Date" "desc" }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <span class="featured-date">{{ .Date.Format "01/06" }}</span>
+    </li>
+    {{- end }}
+  </ul>
+</div>
+{{- end }}
