@@ -36,8 +36,19 @@
 
 /* Featured section on profile home */
 .featured-section {
-  margin-top: -1.5rem;
+  margin: -1.5rem auto 0;
   text-align: center;
+  background-color: #f8f9fa;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.5rem 1.25rem;
+  width: fit-content;
+  min-width: 200px;
+  max-width: 100%;
+}
+
+.dark .featured-section {
+  background-color: rgb(40, 41, 44);
 }
 
 .featured-label {
