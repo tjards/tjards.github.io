@@ -58,3 +58,43 @@
 </div>
 
 {{- partial "featured-posts.html" . -}}
+
+<iframe id="shepherd-bg" src="/web_shepherd/" tabindex="-1" aria-hidden="true"></iframe>
+<script>
+(function() {
+  var iframe = document.getElementById('shepherd-bg');
+  var ORIGIN = location.origin;
+  function send(msg) {
+    if (!iframe.contentWindow) return;
+    iframe.contentWindow.postMessage(msg, ORIGIN);
+  }
+  function relPos(clientX, clientY) {
+    var rect = iframe.getBoundingClientRect();
+    return { x: clientX - rect.left, y: clientY - rect.top };
+  }
+  function sendTheme() {
+    send({ type: 'theme', dark: document.body.classList.contains('dark') });
+  }
+  // mouse events
+  window.addEventListener('mousemove', function(e) {
+    var p = relPos(e.clientX, e.clientY);
+    send({ type: 'mousemove', x: p.x, y: p.y });
+  });
+  window.addEventListener('click', function(e) {
+    var p = relPos(e.clientX, e.clientY);
+    send({ type: 'click', x: p.x, y: p.y });
+  });
+  // touch events
+  window.addEventListener('touchmove', function(e) {
+    var p = relPos(e.touches[0].clientX, e.touches[0].clientY);
+    send({ type: 'mousemove', x: p.x, y: p.y });
+  }, { passive: true });
+  window.addEventListener('touchstart', function(e) {
+    var p = relPos(e.touches[0].clientX, e.touches[0].clientY);
+    send({ type: 'click', x: p.x, y: p.y });
+  }, { passive: true });
+  // theme sync: on iframe load and whenever body class changes
+  iframe.addEventListener('load', sendTheme);
+  new MutationObserver(sendTheme).observe(document.body, { attributes: true, attributeFilter: ['class'] });
+}());
+</script>

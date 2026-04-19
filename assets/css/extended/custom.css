@@ -1,5 +1,30 @@
 
 
+/* Web Shepherd background iframe — home page only */
+#shepherd-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+  z-index: 0;
+}
+
+/* .main is the positioning/clipping context for the iframe */
+body:has(#shepherd-bg) .main {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Profile card and featured posts sit above the iframe */
+body:has(#shepherd-bg) .profile_inner,
+body:has(#shepherd-bg) .profile,
+body:has(#shepherd-bg) .featured-section {
+  position: relative;
+  z-index: 1;
+}
+
 /* Watermark behind home main content */
 .home-info {
   position: relative;
@@ -38,7 +63,7 @@
 .featured-section {
   margin: -1.5rem auto 0;
   text-align: center;
-  background-color: #f8f9fa;
+  background-color: rgba(248, 249, 250, 0.5);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 1rem 1.5rem 1.25rem;
@@ -48,7 +73,7 @@
 }
 
 .dark .featured-section {
-  background-color: rgb(40, 41, 44);
+  background-color: rgba(40, 41, 44, 0.5);
 }
 
 .featured-label {
