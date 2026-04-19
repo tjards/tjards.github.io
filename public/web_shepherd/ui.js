@@ -223,7 +223,7 @@ function animate() {
 
   // draw target at current position
   // crosshair only
-  ctx.strokeStyle = 'rgba(80, 80, 80, 0.7)';
+  ctx.strokeStyle = COLORS.TARGET;
   ctx.lineWidth = 1;
   ctx.beginPath();
   ctx.moveTo(targetX - 6, targetY);

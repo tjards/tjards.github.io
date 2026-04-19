@@ -4,7 +4,7 @@
 // physics 
 const PHYSICS = {
   SHEPHERD_MAX_FORCE: 0.05,   // max shepherd force per frame 
-  SHEPHERD_MAX_SPEED: 1.0,
+  SHEPHERD_MAX_SPEED: 2.0,
   SHEPHERD_REPEL_MAX_DIST: 50,
   SHEPHERD_UPDATE_THRESHOLD: 0.5,
   HERD_MAX_FORCE: 0.1,         // max herd force per frame 
@@ -12,7 +12,7 @@ const PHYSICS = {
   DT: 0.02,
   VISUALIZATION_SCALE: 1,
   CURSOR_VELOCITY_SMOOTH: 0.2,  // lower = smoother but more lag, higher = more responsive
-  TARGET_POSITION_SMOOTH: 0.01   // low-pass filter for target mode: lower = smoother/more lag
+  TARGET_POSITION_SMOOTH: 0.03   // low-pass filter for target mode: lower = smoother/more lag
 };
 
 // initialization of agents 
