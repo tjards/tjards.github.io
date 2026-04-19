@@ -4,11 +4,11 @@
 // physics 
 const PHYSICS = {
   SHEPHERD_MAX_FORCE: 0.05,   // max shepherd force per frame 
-  SHEPHERD_MAX_SPEED: 1.0,
+  SHEPHERD_MAX_SPEED: 2.0,
   SHEPHERD_REPEL_MAX_DIST: 50,
   SHEPHERD_UPDATE_THRESHOLD: 0.5,
   HERD_MAX_FORCE: 0.1,         // max herd force per frame 
-  HERD_MAX_SPEED: 0.3,
+  HERD_MAX_SPEED: 1.0,
   DT: 0.02,
   VISUALIZATION_SCALE: 1,
   CURSOR_VELOCITY_SMOOTH: 0.2,  // lower = smoother but more lag, higher = more responsive
@@ -17,7 +17,7 @@ const PHYSICS = {
 
 // initialization of agents 
 const INIT = {
-  HERD_SIZE: 20,
+  HERD_SIZE: 30,
   SHEPHERD_SIZE: 10,
   HERD_SPREAD_RADIUS: 300
 };

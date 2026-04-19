@@ -200,10 +200,10 @@ function animate() {
   ctx.strokeStyle = COLORS.TARGET;
   ctx.lineWidth = 1;
   ctx.beginPath();
-  ctx.moveTo(targetX - 6, targetY);
-  ctx.lineTo(targetX + 6, targetY);
-  ctx.moveTo(targetX, targetY - 6);
-  ctx.lineTo(targetX, targetY + 6);
+  ctx.moveTo(targetX - 3, targetY);
+  ctx.lineTo(targetX + 3, targetY);
+  ctx.moveTo(targetX, targetY - 3);
+  ctx.lineTo(targetX, targetY + 3);
   ctx.stroke();
 
   requestAnimationFrame(animate);
