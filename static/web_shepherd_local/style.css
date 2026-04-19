@@ -106,6 +106,8 @@ canvas {
   color: var(--color-label-inactive);
   transition: color 0.2s;
   user-select: none;
+  padding: 6px 0;
+  touch-action: manipulation;
 }
 
 .three-way-toggle[data-pos="0"] .three-way-labels span:nth-child(1),

@@ -79,11 +79,19 @@ function initCursorModeToggle() {
 
   slider.addEventListener('click', (e) => applyToggle(e.target));
 
+  slider.addEventListener('touchstart', (e) => {
+    e.preventDefault(); // block scroll and synthesized mouse events
+  }, { passive: false });
+
   slider.addEventListener('touchend', (e) => {
-    e.preventDefault(); // prevent synthesized click + 300ms delay
+    e.preventDefault();
     const touch = e.changedTouches[0];
-    const el = document.elementFromPoint(touch.clientX, touch.clientY);
-    if (el) applyToggle(el);
+    const rect = slider.getBoundingClientRect();
+    const x = touch.clientX - rect.left;
+    const third = rect.width / 3;
+    const idx = x < third ? 0 : x < third * 2 ? 1 : 2;
+    slider.dataset.pos = String(idx);
+    cursorMode = modes[idx];
   });
 }
 
