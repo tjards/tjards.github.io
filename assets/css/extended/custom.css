@@ -15,6 +15,7 @@
 body:has(#shepherd-bg) .main {
   position: relative;
   overflow: hidden;
+  padding-bottom: 50px; /* extends iframe below featured-section so toggle has clear space */
 }
 
 /* Profile card and featured posts sit above the iframe */

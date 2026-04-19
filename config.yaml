@@ -65,7 +65,7 @@ minify:
 params:
 
   homeInfoParams:
-    Title: P Travis Jardine
+    Title: tangents
     Content: on technology, artificial intelligence, and other things
 
   assets:
