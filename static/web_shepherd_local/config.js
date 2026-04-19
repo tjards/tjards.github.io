@@ -4,7 +4,7 @@
 // physics 
 const PHYSICS = {
   SHEPHERD_MAX_FORCE: 0.05,   // max shepherd force per frame 
-  SHEPHERD_MAX_SPEED: 2.0,
+  SHEPHERD_MAX_SPEED: 1.0,
   SHEPHERD_REPEL_MAX_DIST: 50,
   SHEPHERD_UPDATE_THRESHOLD: 0.5,
   HERD_MAX_FORCE: 0.1,         // max herd force per frame 

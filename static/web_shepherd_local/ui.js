@@ -2,9 +2,7 @@
 const COLORS = {
   HERD: getComputedStyle(document.documentElement).getPropertyValue('--color-herd').trim(),
   SHEPHERD: getComputedStyle(document.documentElement).getPropertyValue('--color-shepherd').trim(),
-  TARGET: getComputedStyle(document.documentElement).getPropertyValue('--color-target').trim(),
-  CENTROID_HERD: getComputedStyle(document.documentElement).getPropertyValue('--color-centroid-herd').trim(),
-  CENTROID_SHEPHERD: getComputedStyle(document.documentElement).getPropertyValue('--color-centroid-shepherd').trim()
+  TARGET: getComputedStyle(document.documentElement).getPropertyValue('--color-target').trim()
 };
 
 
@@ -62,8 +60,8 @@ function initCursorModeToggle() {
   const modes = ['herd', 'shepherd', 'target'];
   slider.dataset.pos = '2';
 
-  slider.addEventListener('click', (e) => {
-    const label = e.target.closest('[data-mode]');
+  function applyToggle(target) {
+    const label = target.closest('[data-mode]');
     if (label) {
       const idx = modes.indexOf(label.dataset.mode);
       if (idx !== -1) {
@@ -72,11 +70,20 @@ function initCursorModeToggle() {
       }
       return;
     }
-    // click on track — advance to next position
+    // tap on track — advance to next position
     const cur = parseInt(slider.dataset.pos);
     const next = (cur + 1) % 3;
     slider.dataset.pos = String(next);
     cursorMode = modes[next];
+  }
+
+  slider.addEventListener('click', (e) => applyToggle(e.target));
+
+  slider.addEventListener('touchend', (e) => {
+    e.preventDefault(); // prevent synthesized click + 300ms delay
+    const touch = e.changedTouches[0];
+    const el = document.elementFromPoint(touch.clientX, touch.clientY);
+    if (el) applyToggle(el);
   });
 }
 
@@ -167,28 +174,11 @@ function animate() {
   const cursorShepherdList = cursorMode === 'shepherd' ? [cursorShepherd] : [];
   const shepsObjects = shepherds.members;
 
-  // compute herd centroid (cached for this frame)
-  let centX = 0, centY = 0;
-  for (let member of allMembers) {
-    centX += member.x;
-    centY += member.y;
-  }
-  centX /= allMembers.length;
-  centY /= allMembers.length;
-
   // update each herd member
   for (let member of allMembers) {
     member.update(allMembers, shepsObjects, canvas.width, canvas.height);
     member.draw(ctx, herd.color);
   }
-
-  // draw herd centroid
-  ctx.fillStyle = COLORS.CENTROID_HERD;
-  ctx.globalAlpha = 0.3;
-  ctx.beginPath();
-  ctx.arc(centX, centY, 8, 0, Math.PI * 2);
-  ctx.fill();
-  ctx.globalAlpha = 1.0;
 
   // update and draw shepherds (pre-compute other shepherds lists)
   precomputeOtherShepherds();
@@ -204,22 +194,6 @@ function animate() {
   if (cursorMode === 'shepherd') {
     cursorShepherd.draw(ctx, shepherds.color);
   }
-
-  // compute shepherds centroid (cached for this frame)
-  let shepCentX = 0, shepCentY = 0;
-  for (let s of shepherds.members) {
-    shepCentX += s.x;
-    shepCentY += s.y;
-  }
-  shepCentX /= shepherds.members.length;
-  shepCentY /= shepherds.members.length;
-
-  ctx.fillStyle = COLORS.CENTROID_SHEPHERD;
-  ctx.globalAlpha = 0.3;
-  ctx.beginPath();
-  ctx.arc(shepCentX, shepCentY, 8, 0, Math.PI * 2);
-  ctx.fill();
-  ctx.globalAlpha = 1.0;
 
   // draw target at current position
   // crosshair only
