@@ -147,8 +147,9 @@ function animate() {
     cursorShepherd.vx = shepherds.members[0].vx;
     cursorShepherd.vy = shepherds.members[0].vy;
   } else if (cursorMode === 'target') {
-    targetX = mouseX;
-    targetY = mouseY;
+    const beta = PHYSICS.TARGET_POSITION_SMOOTH;
+    targetX = targetX * (1 - beta) + mouseX * beta;
+    targetY = targetY * (1 - beta) + mouseY * beta;
   } else {
     cursorHerdMember.x = mouseX;
     cursorHerdMember.y = mouseY;

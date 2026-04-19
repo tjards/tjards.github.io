@@ -11,7 +11,8 @@ const PHYSICS = {
   HERD_MAX_SPEED: 0.3,
   DT: 0.02,
   VISUALIZATION_SCALE: 1,
-  CURSOR_VELOCITY_SMOOTH: 0.2  // lower = smoother but more lag, higher = more responsive
+  CURSOR_VELOCITY_SMOOTH: 0.2,  // lower = smoother but more lag, higher = more responsive
+  TARGET_POSITION_SMOOTH: 0.01   // low-pass filter for target mode: lower = smoother/more lag
 };
 
 // initialization of agents 
