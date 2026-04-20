@@ -18,12 +18,11 @@ ShowToc: false
 
 ### student supervision 
 
-I am currently supervising graduate students at the Master's and PhD levels and am open to discussing new opportunities. If you are interested, feel free to send me an <a href="mailto:p.jardine@queensu.ca">email</a> and we can set up time to chat.
+I am currently supervising graduate students at the Master's and PhD levels and am open to discussing new opportunities. If you are interested, feel free to contact me and we can set up time to chat.
 
-### curriculum vitae
+### contact
 
-My CV is available <a href="mailto:p.jardine@queensu.ca">upon request</a>.
+ - <a href="mailto:p.jardine@queensu.ca">p.jardine@queensu.ca</a> 
+ - <a href="https://www.linkedin.com/in/p-travis-jardine-403b3a148/">linkedin</a>
 
-### this website
 
-This website was built with [Hugo](https://gohugo.io/) using the [Papermod](https://github.com/adityatelange/hugo-PaperMod) theme. The source code can be found on my [GitHub](https://github.com/tjards/tjards.github.io). The domain name *r4lux* is a Star Trek reference: there are four lights!

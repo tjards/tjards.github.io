@@ -9,11 +9,9 @@ ShowToc: false
 
 An interactive web app demonstrating shepherding behaviour. 
 
-Click [here](https://tjards.github.io/web_shepherd/) for demo.
-
-Click [here](https://github.com/tjards/web_shepherd) for code and documentation.
-
-
+- [Interactive Demo](https://tjards.github.io/web_shepherd/)
+- [Code and Documentation](https://github.com/tjards/web_shepherd) 
+- [Slimmer Version for Website Integration](https://tjards.github.io/web_shepherd_local)
 
 
 ### References

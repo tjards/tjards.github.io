@@ -66,7 +66,9 @@ params:
 
   homeInfoParams:
     Title: tangents
-    Content: on technology, artificial intelligence, and other things
+    Content: on technology, artificial intelligence
+
+  
 
   assets:
     #css:
@@ -139,7 +141,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: P Travis Jardine
-    subtitle: "thoughts on technology, artificial intelligence, and other things"
+    subtitle: "control + learning + cooperation"
     imageUrl: img/me3.jpeg
     imageWidth: 140
     imageHeight: 140
