@@ -141,15 +141,15 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: P Travis Jardine
-    subtitle: "control + learning + cooperation"
+    subtitle: "robotics researcher" 
     imageUrl: img/me3.jpeg
     imageWidth: 140
     imageHeight: 140
     imageTitle: my image
     showFeatured: true # show featured posts list below profile card
     #buttons:
-    #  - name: featured
-    #    url: /tags/featured/ 
+    #  - name: about me
+    #    url: /about/ 
     #buttons:
     #  - name: resume
     #    url: https://www.linkedin.com/in/p-travis-jardine-403b3a148/

@@ -9,6 +9,7 @@
   height: 100%;
   border: none;
   z-index: 0;
+  opacity: 0.5;
 }
 
 /* .main is the positioning/clipping context for the iframe */
@@ -62,7 +63,7 @@ body:has(#shepherd-bg) .featured-section {
 
 /* Featured section on profile home */
 .featured-section {
-  margin: -1.5rem auto 0;
+  margin: 3.5rem auto 0;
   text-align: center;
   background-color: rgba(248, 249, 250, 0.5);
   border: 1px solid var(--border);
