@@ -1,6 +1,6 @@
 ---
 date: '2025-02-02T16:15:45-05:00'
-draft: false
+draft: true
 title: 'Robots, Chaos, and Dune: Reflections on Unpredictability'
 tags: ['culture']
 categories: ['personal']
