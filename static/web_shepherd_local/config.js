@@ -3,7 +3,8 @@
 
 // physics 
 const PHYSICS = {
-  SHEPHERD_MAX_FORCE: 0.05,   // max shepherd force per frame 
+  // SHEPHERD_MAX_FORCE: 0.05,   // max shepherd force per frame 
+  SHEPHERD_MAX_FORCE: 0.2,    // max shepherd force per frame 
   SHEPHERD_MAX_SPEED: 2.0,
   SHEPHERD_REPEL_MAX_DIST: 50,
   SHEPHERD_UPDATE_THRESHOLD: 0.5,
@@ -17,8 +18,10 @@ const PHYSICS = {
 
 // initialization of agents 
 const INIT = {
-  HERD_SIZE: 30,
-  SHEPHERD_SIZE: 10,
+  // HERD_SIZE: 30,
+  HERD_SIZE: 20,
+  // SHEPHERD_SIZE: 10,
+  SHEPHERD_SIZE: 5,
   HERD_SPREAD_RADIUS: 300
 };
 
